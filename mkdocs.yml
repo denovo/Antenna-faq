@@ -1,0 +1,15 @@
+site_name: FAQ
+pages:
+
+- FAQ: 'index.md'
+- Devices and Installing: 'devices.md'
+- Base App: 'baseapp.md'
+- App Submission: 'submission.md'
+- Publisher: 'publisher.md'
+- Assets: 'table.md'
+- DM Tools:
+    - 'Jira': 'dmtools/jira.md'
+    - 'Smarthseet': 'dmtools/smartsheet.md'
+- QA: 'qa.md'   
+theme: spacelab
+
