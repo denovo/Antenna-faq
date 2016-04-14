@@ -1,7 +1,7 @@
 <h1>Iris 2 & iOS/Android Base App Technical Manual</h1>
 <h3>Version 1.0</h3>
 
-
+Netlify hosted version
 ---------
 
 [https://publisher.antenna.cc/apps/20320/document](https://publisher.antenna.cc/apps/20320/document)
