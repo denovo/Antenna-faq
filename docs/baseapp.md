@@ -1020,11 +1020,6 @@ There are light and dark lines drawn on the edges of each key using 2 empty bloc
 Background image for the key rows. Theres one image that gets repeated behind each of the 4 rows. This is an image of a slight gradient.
 
 
-
->##Sales sheet, costings and lead times.
-
-Link to follow
-
 -----
 
 >##Naming conventions
