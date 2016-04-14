@@ -1,7 +1,6 @@
 <h1>Iris 2 & iOS/Android Base App Technical Manual</h1>
 <h3>Version 1.0</h3>
-
-Netlify hosted version
+<h4>Netlify hosted version</h4>
 ---------
 
 [https://publisher.antenna.cc/apps/20320/document](https://publisher.antenna.cc/apps/20320/document)
@@ -397,8 +396,8 @@ For downloables to clienets store fronts these should be updated to the clients 
 -----
 
 
+>## Assets, Themes and Fonts
 
->## Themes and Fonts
 
 **Changing the Theme**
 
@@ -421,7 +420,8 @@ You must load and reference separate font weights as different files into the ap
 
 -----
 
->## Assets
+
+**Assets**
 
 Assets for the Base app should be provided according to the specifictions outlined here:
 
