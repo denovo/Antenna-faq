@@ -371,7 +371,7 @@ For downloables to clienets store fronts these should be updated to the clients 
 
 - Use Android 4.4 and higher
 
->**Android 2.3**
+>**Android 2.3 (Samsungs)**
 
 - Use Android 2.3 for Antenna with Video Back Fix
 
