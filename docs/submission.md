@@ -90,7 +90,7 @@ Log in the Antenna Google Developer account [here](https://play.google.com/apps/
 
 When submitting to the play store, you need to upload your expansion files after uploading the apk. Currently Google Play doesn't allow submitting an expansion file with the first versino of your app. When submitting a new app with expansion files, you must submit an app with build version 1 without an expansion file and then another one with build version 2 along with the expansion file.
 
-[Brief Overview of how to upload Expansion files]( https://drive.google.com/file/d/0B-4IrW_F-LIRWjBCckhlQ2ROUGs/view?usp=sharing)
+[Brief Video Overview of how to upload Expansion files]( https://drive.google.com/file/d/0B-4IrW_F-LIRWjBCckhlQ2ROUGs/view?usp=sharing)
 
 [Google Play Expansion file uploading](https://support.google.com/googleplay/android-developer/answer/2481797?hl=en-GB)
 
