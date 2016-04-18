@@ -28,6 +28,8 @@ You will need to have the following to submit:
  - All assets at required resolutions
  - App MetaData
 
+Contact [Jenya Abakumov](mailto:jabakumov@antennainternational.com) to be added to these accounts.
+
 This is a link of all the assets and metadata descriptions that you will need for iTunes Connect. 
 
 This link contains all relevant asset size and screenshot information.
@@ -80,7 +82,7 @@ You will need to have the following to submit:
 - App MetaData
 - An app expansion file
 
-
+Contact [Jenya Abakumov](mailto:jabakumov@antennainternational.com) to be added to these accounts.
 
 **Expansion files upload process**
 
