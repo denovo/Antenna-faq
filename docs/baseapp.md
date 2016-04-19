@@ -3101,3 +3101,7 @@ You will need to add v_double_tap to extra views that you build within the base 
 ![image alt text](/images/doubletap1.png)
 
 ![image alt text](images/doubletap2.png)
+
+## Language Labels & Translations
+
+A list of the common labels we use in baseapps in all languages can be found here: [https://docs.google.com/spreadsheets/d/1jWkovR18MLfhYKPVjmRuPisFXDHLYYQ3JJKhLlxJUB4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jWkovR18MLfhYKPVjmRuPisFXDHLYYQ3JJKhLlxJUB4/edit?usp=sharing)
