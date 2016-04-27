@@ -62,7 +62,10 @@ Manual Install with expansion files:
 
 1. Install the .apk file
 2. Locate the expansion file on your computer (the large .zip file)
-3. Rename the .zip file to .obb (eg main.48946.com.bm.pompeii.obb) 
+3: Rename the .obb file to match the filename format below:
+- Go to edit app in ES, copy the android package name eg (main.com.antenna.beatles), 
+- Copy the app build number `eg 112657` from the page url when you are on the ES build history page for the build you want to install. 
+- Combine the two, so the filename of the .obb file reads something like :  ```main.48946.com.bm.pompeii.obb``` 
 4. Make sure that the file extension has definitely changed from .zip to .obb.
 5. Mount your device and go to the folder Android/obb                                               
 6. Copy the .obb file (eg main.48946.com.bm.pompeii.obb) file into this folder
