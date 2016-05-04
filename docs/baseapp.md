@@ -366,9 +366,13 @@ For downloables to clienets store fronts these should be updated to the clients 
 
 - Use iOS 5 and 6 - when the onsite devices are on 6.16 firmware
 
+- Make sure to tick the checkbox option for Track Data Source Pagination on any patterns that need to keep track of postition.
+
 >**Android 4.4>**
 
 - Use Android 4.4 and higher
+
+- Make sure to untick the checkbox option for Track Data Source Pagination on any patterns that need to keep track of postition or you may get repeating patterns.
 
 >**Android 2.3 (Samsungs)**
 
