@@ -395,6 +395,7 @@ For downloables to clienets store fronts these should be updated to the clients 
 - Use Android 4.4 and higher
 - General Tab -If the app is over 50mb it will need to use content distribution
 - General Tab - Advanced tab audio plays in background
+- Set the v_downloadable varible in the launch events to true - if you wnat to enable Android Device Back button options. You;re are likely to need to adjust events based on your particular apps navigational flow. This can be done on the edit tab for ecah view and then editing the Android back events. Currently when set to true the Android Back button on the main menu will exit the app - on Audio/video views it will caus ethose to return to previous views and run associated scripts.
 
 
 -----
