@@ -1,0 +1,9 @@
+/* allow the left sidebar menu to be scrollable */
+@media (min-width: 992px) {
+    .bs-sidebar.affix {
+        position: fixed;
+        top: 80px;
+        overflow-y: scroll;
+        max-height: 100%;
+    }
+}
