@@ -16,4 +16,4 @@ Changes made to source files on the master branch will be automatically picked u
 
 Prose.io is enabled on the Antenna-faq repo to allow you to make and preview changes using a web based markdown editor
 
-- visit http://prose.io/#denovo/Antenna-faq/ to make changes using prose.io
+- visit http://prose.io/#nevedwards101/Antenna-faq to make changes using prose.io
