@@ -60,13 +60,17 @@ Once the app is on your device, disconnect and turn off USB connection and then 
 
 Manual Install with expansion files:
 
-1. Install the .apk file
-2. Locate the expansion file on your computer (the large .zip file)
-3. Rename the .zip file to .obb (eg main.48946.com.bm.pompeii.obb) 
-4. Make sure that the file extension has definitely changed from .zip to .obb.
-5. Mount your device and go to the folder Android/obb                                               
-6. Copy the .obb file (eg main.48946.com.bm.pompeii.obb) file into this folder
-7. Unmount and launch the app.
+- Install the .apk file on the android device
+- Locate the expansion file on your computer (the large .zip file)
+- Rename the .obb file to match the filename format below:
+- Go to edit app in ES, copy the android package name eg (main.com.antenna.beatles), 
+- Copy the build number of the app `eg 112657` this will be at the end of the page url when you are on the ES build history page for the build version you want to install. 
+- Combine the two, so the filename of the .obb file reads something like :  ```main.112662.com.antenna.beatles.obb``` 
+- Make sure that the file extension has definitely changed from .zip to .obb.
+- Mount your device and go to the folder Android/obb
+- Create a new folder inside obb/ using the name of the android package name without the "main." For example: ```com.antenna.beatles```
+- Copy the .obb file  (eg main.48946.com.bm.pompeii.obb) into this folder, in this case it would be ```Android/obb/com.antenna.beatles/main.112662.com.antenna.beatles.obb```
+- Unmount and launch the app.
  
 *IMPORTANT* Make sure that when you rename the expansion file you are overwriting the .zip file extension. This is the cause in 90% of installation failures.
 

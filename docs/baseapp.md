@@ -1,7 +1,6 @@
 <h1>Iris 2 & iOS/Android Base App Technical Manual</h1>
 <h3>Version 1.0</h3>
-
-
+<h4>Netlify hosted version</h4>
 ---------
 
 [https://publisher.antenna.cc/apps/20320/document](https://publisher.antenna.cc/apps/20320/document)
@@ -367,11 +366,15 @@ For downloables to clienets store fronts these should be updated to the clients 
 
 - Use iOS 5 and 6 - when the onsite devices are on 6.16 firmware
 
+- Make sure to tick the checkbox option for Track Data Source Pagination on any patterns that need to keep track of postition.
+
 >**Android 4.4>**
 
 - Use Android 4.4 and higher
 
->**Android 2.3**
+- Make sure to untick the checkbox option for Track Data Source Pagination on any patterns that need to keep track of postition or you may get repeating patterns.
+
+>**Android 2.3 (Samsungs)**
 
 - Use Android 2.3 for Antenna with Video Back Fix
 
@@ -392,13 +395,14 @@ For downloables to clienets store fronts these should be updated to the clients 
 - Use Android 4.4 and higher
 - General Tab -If the app is over 50mb it will need to use content distribution
 - General Tab - Advanced tab audio plays in background
-
+- Set the v_downloadable varible in the launch events to true - if you wnat to enable Android Device Back button options. You;re are likely to need to adjust events based on your particular apps navigational flow. This can be done on the edit tab for ecah view and then editing the Android back events. Currently when set to true the Android Back button on the main menu will exit the app - on Audio/video views it will caus ethose to return to previous views and run associated scripts.
+- NB the Androdi Back Button Event captures any "swithc to previous" event an dthen runs those actions - this can be used to disable the Android on device back button with caution.
 
 -----
 
 
+>## Assets, Themes and Fonts
 
->## Themes and Fonts
 
 **Changing the Theme**
 
@@ -421,7 +425,8 @@ You must load and reference separate font weights as different files into the ap
 
 -----
 
->## Assets
+
+**Assets**
 
 Assets for the Base app should be provided according to the specifictions outlined here:
 
@@ -1019,11 +1024,6 @@ There are light and dark lines drawn on the edges of each key using 2 empty bloc
 
 Background image for the key rows. Theres one image that gets repeated behind each of the 4 rows. This is an image of a slight gradient.
 
-
-
->##Sales sheet, costings and lead times.
-
-Link to follow
 
 -----
 
@@ -3106,3 +3106,7 @@ You will need to add v_double_tap to extra views that you build within the base 
 ![image alt text](/images/doubletap1.png)
 
 ![image alt text](images/doubletap2.png)
+
+## Language Labels & Translations
+
+A list of the common labels we use in baseapps in all languages can be found here: [https://docs.google.com/spreadsheets/d/1jWkovR18MLfhYKPVjmRuPisFXDHLYYQ3JJKhLlxJUB4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jWkovR18MLfhYKPVjmRuPisFXDHLYYQ3JJKhLlxJUB4/edit?usp=sharing)
