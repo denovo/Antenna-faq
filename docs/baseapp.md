@@ -687,6 +687,7 @@ Duration – The duration in seconds of the media file. This column exists from 
 Type – audio or video
 
 Here’s an example of a completed lookup table [https://docs.google.com/spreadsheets/d/11aofwZ_2lHmopdDPKnS6y-h4flEzl4w0pKhXxSwX56Q/edit?usp=sharing](https://docs.google.com/spreadsheets/d/11aofwZ_2lHmopdDPKnS6y-h4flEzl4w0pKhXxSwX56Q/edit?usp=sharing)
+This is the baseapp [example] (https://docs.google.com/spreadsheets/d/1jWOe7RtE1rjaxgbqnkpWAvN2ih_nACJonJQ7JvkxAlM/edit?usp=sharing)
 
 >**Reporting - Splunk**
 
