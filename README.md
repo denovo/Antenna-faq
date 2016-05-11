@@ -18,5 +18,5 @@ Prose.io is enabled on the Antenna-faq repo to allow you to make and preview cha
 
 - visit http://prose.io/#nevedwards101/Antenna-faq to make changes using prose.io
  
-** Note: When using prose.io** 
+**Note: When using prose.io** 
 Remember to log in to Github and make sure you have authenticated first, before making any changes. This is done by signing in to github in another browser window and then visiting prose.io and clicking "authorise on Github" This will prevent you losing any edits if you are already logged in before starting to make changes in the wysiwyg editor.
