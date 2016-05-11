@@ -10,6 +10,7 @@ pages:
 - DM Tools:
     - 'Jira': 'dmtools/jira.md'
     - 'Smarthseet': 'dmtools/smartsheet.md'
+    - 'Useful Links': 'dmtools/useful.md'
 - QA: 'qa.md'
 theme: spacelab
 extra_css: [extra.css]
