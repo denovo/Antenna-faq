@@ -12,5 +12,5 @@ pages:
     - 'Smarthseet': 'dmtools/smartsheet.md'
     - 'Useful Links': 'dmtools/useful.md'
 - QA: 'qa.md'
-theme: slate
+theme: spacelab
 extra_css: [extra.css]
