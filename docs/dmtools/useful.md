@@ -1,3 +1,3 @@
-## A New Post
+## Translations of Terms
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Translations for common App text [GoogleDoc](https://docs.google.com/spreadsheets/d/11u1d8N-s34wUJrJEbTGcTiHNHX2h8Qsg6e15HvpLF_Y/edit#gid=0)
