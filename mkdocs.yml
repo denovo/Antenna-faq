@@ -12,6 +12,7 @@ pages:
     - 'Smarthseet': 'dmtools/smartsheet.md'
     - 'Useful Links': 'dmtools/useful.md'
 - QA: 'qa.md'
-theme: 'material'
+theme: 'readable'
 extra_css: [extra.css]
 # theme: spacelab
+# theme: material
