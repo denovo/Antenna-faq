@@ -61,25 +61,24 @@ Once the app is on your device, disconnect and turn off USB connection and then 
 Manual Install with expansion files:
 
 - Install the .apk file on the android device
+- Launch the apk and when it asks if you want to download the expansion, exit the app and unmount the USB.
+- This will have created a folder in the android/obb with the correct structure for your expasnion file
 - Locate the expansion file on your computer (the large .zip file)
 - Rename the .obb file to match the filename format below:
-- Go to edit app in ES, copy the android package name eg (main.com.antenna.beatles), 
-- Copy the build number of the app `eg 112657` this will be at the end of the page url when you are on the ES build history page for the build version you want to install. 
+- IF a commercial build: 
+  Go to edit app in ES, copy the android package name eg (main.com.antenna.beatles), 
+  Copy the build number of the app `eg 112657` this will be at the end of the page url when you are on the ES build     history page for the build version you want to install. 
 - Combine the two, so the filename of the .obb file reads something like :  ```main.112662.com.antenna.beatles.obb```
-- Commercial Build Installs : ```main.113274.com.antenna.beatles.obb``` 
-- Adhoc Installs: ```main.113274.com.eachscape.app29310.obb``` (**113274**: build number  **29310**: app number)
-- Make sure that the file extension has definitely changed from .zip to .obb.
+- IF an adhoc build: 
+   Adhoc Installs: ```main.113274.com.eachscape.app29310.obb``` (**113274**: build number  **29310**: app number)
+   
+- Make sure that the file extension has definitely changed from .zip to .obb. On a Mac you can use the GetInfo option   to check. On a PC you can right click and check properties. If you can't see a file type on PC - goto folder         options and remove the tick from "hide known type file extension"s in foplder options on Windows systems so you can   rename the .zip
+  **IMPORTANT** Make sure that when you rename the expansion file you are overwriting the .zip file extension. This     is the cause in 90% of installation failures.
+
+
 - Mount your device and go to the folder Android/obb
-- Create a new folder inside obb/ using the name of the android package name without the "main." For example: ```com.antenna.beatles``` for commercial builds. For Adhoc use ```com.eachscape.app29310``` as the folder name where 29310 is the app number
 - Copy the .obb file  (eg main.48946.com.bm.pompeii.obb) into this folder, in this case it would be ```Android/obb/com.antenna.beatles/main.112662.com.antenna.beatles.obb``` to install the commercial build.
-- Unmount and launch the app.... Phew, easy like peas and rice!
-
-**IMPORTANT** Make sure that when you rename the expansion file you are overwriting the .zip file extension. This is the cause in 90% of installation failures.
-
-Remove the tick hide known type file extensions in foplder options on Windows systems so you can rename the .zip
-
-When installing commercial builds on Samsung after setting up folder and renaming obb, make sure to remove from the USB connection before launching - otherwise it interferes with the process.
-
+- Unmount and launch the app.... 
 
 ----
 
