@@ -16,3 +16,13 @@ theme: 'readable'
 extra_css: [extra.css]
 # theme: spacelab
 # theme: material
+# theme: slate
+# theme: journal
+# theme: flatly
+# theme: cyborg
+# theme: cosmo
+# theme: cerulean
+# theme: simplex
+# theme: united
+# theme: readable
+# theme: yeti
