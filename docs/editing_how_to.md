@@ -50,7 +50,7 @@ This is to make the commit titles easier to browse if we ever need to roll-back 
 
 Longer text changes and additions can be more easily made using a markdown editor. This will help when making changes because you can preview how the markdown will render in html and also most tools have some kind of wysiwyg icons to bold text, add links, images etc. 
 
-#### Making changes with stackedit.io
+#### ** Making changes with stackedit.io **
 
 + log into github and find the '.md' file you want to make changes to from the 'docs/' folder
 + copy the contents of that file into stackedit.io
@@ -59,15 +59,21 @@ Longer text changes and additions can be more easily made using a markdown edito
 + copy the changes back into git
 + add a commit message and click save changes
 
-#### Prose.io is enabled on the Antenna-faq repo to allow you to make and preview changes using a web based markdown editor
+#### ** Making changes with Prose.io **
+Prose.io is also enabled on the Antenna-faq repo to allow you to make, preview and save changes using their web app.
 
-- visit http://prose.io/#nevedwards101/Antenna-faq to make changes using prose.io
- 
++ Sign in to your github account
++ Go to: http://prose.io/#nevedwards101/Antenna-faq
++ click the green button (bottom right) to Authorise on Github, if you don't see green button you are already logged in
++ make any changes in the 'docs' folder
++ use the buttons on the right side to preview, and to save and commit your changes to github from within prose.io
+
 **Note: When using prose.io** 
-Remember to log in to Github and make sure you have authenticated first, before making any changes. This is done by signing in to github in another browser window and then visiting prose.io and clicking "authorise on Github". 
+Remember to log in to Github and make sure you have authenticated first, before making any changes. 
+This is done by signing in to github in another browser window and then visiting prose.io and clicking "authorise on Github" (green button bottom right). 
 This will prevent you losing any edits if you are already logged in before starting to make changes in the prose.io editor.
 
-### * Changes Made in the Master Branch in Git
+#### * Changes Made in the Master Branch in Git
 Github allows you to have multiple copies or "branches" of the same set of source files. This can be used to test out developing new features or changes without affecting the master (stable) copy. Changes are then only merged in once they've been tested and approved. 
 
 Netlify is listening for any changes to the master branch in the antenna-faq repo. So you should make changes here if you want them to be automatically published through to the FAQs website.
@@ -90,3 +96,7 @@ The text inside the square brackets `[` is the alt text for the image and the ur
 ### Embed an image using the images/ folder inside the docs repo
     ![Antenna International logo](/images/Antenna-horizontal-All-aligned.jpg)
 The text inside the square brackets `[` is the alt text for the image and the url inside the curved brackets is the url path to the image filename **relative to the current folder** of the .md file you want to add the image to.
+
+## Adding new pages
+
+To do
