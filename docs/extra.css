@@ -8,6 +8,7 @@
     }
 }
 /* Antenna Header Colours*/
-.header{
+.header, .footer, body {
   background-color:#6D7AB3
 }
+
