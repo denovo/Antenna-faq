@@ -72,12 +72,18 @@ Longer text changes and additions can be more easily made using a markdown edito
 + copy the changes back into git
 + add a commit message and click save changes
 
-#### Prose.io is enabled on the Antenna-faq repo to allow you to make and preview changes using a web based markdown editor
+#### Making changes with Prose.io
+Prose.io is also enabled on the Antenna-faq repo to allow you to make, preview and save changes using their web app.
 
-- visit http://prose.io/#nevedwards101/Antenna-faq to make changes using prose.io
- 
++ Sign in to your github account
++ Go to: http://prose.io/#nevedwards101/Antenna-faq
++ click the green button (bottom right) to Authorise on Github, if you don't see green button you are already logged in
++ make any changes in the 'docs' folder
++ use the buttons on the right side to preview, and to save and commit your changes to github from within prose.io
+
 **Note: When using prose.io** 
-Remember to log in to Github and make sure you have authenticated first, before making any changes. This is done by signing in to github in another browser window and then visiting prose.io and clicking "authorise on Github". 
+Remember to log in to Github and make sure you have authenticated first, before making any changes. 
+This is done by signing in to github in another browser window and then visiting prose.io and clicking "authorise on Github" (green button bottom right). 
 This will prevent you losing any edits if you are already logged in before starting to make changes in the prose.io editor.
 
 ### * Changes Made in the Master Branch in Git
