@@ -100,5 +100,6 @@ The text inside the square brackets `[` is the alt text for the image and the ur
 The text inside the square brackets `[` is the alt text for the image and the url inside the curved brackets is the url path to the image filename **relative to the current folder** of the .md file you want to add the image to.
 
 ## Adding new pages
+### Video: how to add new pages
 
 <iframe name='quickcast' src='http://quick.as/embed/x2wytnglw' scrolling='no' frameborder='0' width='100%' allowfullscreen></iframe><script src='http://quick.as/embed/script/1.65'></script>
