@@ -96,7 +96,7 @@ Images can be added to the docs by either linking to an image that is stored in 
 
 ### Embed a file stored externally, in google drive, another site, cloud hosting etc
 It is possible to enter any URL to an image and embed that into the docs. See code below.
-    ![enter image description here](https://lh3.googleusercontent.com/Q4gmsnX6ZjU1AA1cZpnqWntAg1dojTQ64tbUeWf9YhjkQtzh0XKY8pMzQWob6x0d9i3O=s800 "Screen Shot 2016-03-21 at 22.02.43.png")
+    ```![enter image description here](https://lh3.googleusercontent.com/Q4gmsnX6ZjU1AA1cZpnqWntAg1dojTQ64tbUeWf9YhjkQtzh0XKY8pMzQWob6x0d9i3O=s800 "Screen Shot 2016-03-21 at 22.02.43.png")```
 
 The text inside the square brackets `[` is the alt text for the image and the url inside the curved brackets `(` is the url to the image filename. The text inside the speechmarks is the title of the image.
 
