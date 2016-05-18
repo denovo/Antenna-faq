@@ -23,7 +23,7 @@ When changes are made to the `.md` source files and pushed to Github they will b
 
 See diagram below for a visual explanation of the build process.
 
-![Antenna FAQ Overview](docs/images/antenna-faq-overview.svg)
+![Antenna FAQ Overview](/images/antenna-faq-overview.svg)
 
 
 ## Making Updates
