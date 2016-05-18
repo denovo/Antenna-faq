@@ -10,12 +10,16 @@
 /* Antenna Header Colours*/
 .header, 
 .footer, 
-body, 
-.drawer .toc a.current, 
-.drawer .toc a:focus, 
-.drawer .toc a:hover
+body
 {
   background-color:#6D7AB3;
+}
+
+
+.drawer .toc a.current, 
+.drawer .toc a:focus, 
+.drawer .toc a:hover {
+    color: #6D7AB3;
 }
 
 .drawer .anchor a {
