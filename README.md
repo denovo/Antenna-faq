@@ -3,18 +3,12 @@ Source files for Antenna docs and FAQs
 
 
 Site auto generated with MkDocs and hosted for free on Netlify.
-View the docs here:
-
-<http://antenna-faq.netlify.com/>
-
-Changes made to source files on the master branch will be automatically picked up by netlify and a new build generated and deployed to the url above.
-
-
-
-# How to make changes to Antenna FAQ
 
 - Source files: <http://github.com/nevedwards101/Antenna-faq/>
 - Published website:  <http://antenna-faq.netlify.com/>
+
+Changes made to source files on the master branch will be automatically picked up by netlify and a new build generated and deployed to the url above.
+
 
 ##Getting started
 
