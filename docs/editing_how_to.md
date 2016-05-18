@@ -46,7 +46,7 @@ The descriptions can be more lengthy and go into more details.
 This is to make the commit titles easier to browse if we ever need to roll-back to a point in history or find out when things changed.
 
 #### ** video: making small changes using github **
-<iframe name='quickcast' src='http://quick.as/embed/1djlub8yo' scrolling='no' frameborder='0' width='100%' allowfullscreen></iframe><script src='http://quick.as/embed/script/1.65'></script>
+<http://quick.as/1DJLUB8yO>
 
 ### Update using <http://prose.io> or <http://stackedit.io>
 
