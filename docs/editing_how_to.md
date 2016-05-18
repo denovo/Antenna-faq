@@ -101,5 +101,6 @@ The text inside the square brackets `[` is the alt text for the image and the ur
 
 ## Adding new pages
 ### Video: how to add new pages
+<http://quick.as/x2wytnglw>
 
 <iframe name='quickcast' src='http://quick.as/embed/x2wytnglw' scrolling='no' frameborder='0' width='100%' allowfullscreen></iframe><script src='http://quick.as/embed/script/1.65'></script>
