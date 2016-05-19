@@ -17,15 +17,40 @@ Delete any previous version of an app before installing a new one
 > iOS  
 
 You can use iTunes to upload your app.
+You can transfer the ipa into your iTunes library and then install to your device.
+
+You can install via either a long link url: As an example:https://d3099jutct8dja.cloudfront.net/builds/113545/adhoc?Expires=1464530546&Signature=Aa8jPq-ayQyaOgnRGBWi0kvJpBh64kn3wHYNFvRcaakn~rLR3jMdIHPwUrJRnbwA~me1odT3GWjeiWAXYNhfdBpvIrMy-dji-bVU4zFqslfOeUcvWoUUFRROFptkK2jkqOT7GnF8Rn0r4zTuVZCUJ3jW7~vZW8WTSX9VBNtQrWk_&Key-Pair-Id=APKAI42DDOB6K67Z7GBA
+
+This will downlaod to your hard drive and  can then be transffered to your device.
+
+On the device you can use either the QR code or you can navigate on the device using it's browser and input the short link:
+example: 
+j.mp/1sivnbk
+Code: 465
+
 
 >Android
 
+
+You can install via either a long link url: As an example:https://d3099jutct8dja.cloudfront.net/builds/113545/adhoc?Expires=1464530546&Signature=Aa8jPq-ayQyaOgnRGBWi0kvJpBh64kn3wHYNFvRcaakn~rLR3jMdIHPwUrJRnbwA~me1odT3GWjeiWAXYNhfdBpvIrMy-dji-bVU4zFqslfOeUcvWoUUFRROFptkK2jkqOT7GnF8Rn0r4zTuVZCUJ3jW7~vZW8WTSX9VBNtQrWk_&Key-Pair-Id=APKAI42DDOB6K67Z7GBA
+
+This will downlaod to your hard drive and  can then be transffered to your device.
+
+
 Connect your device and then drag your app to a folder on the device.
 You may need to enable USB debugging or developer options on your device for it to show up on your computer.
+
 Once the app is on your device, navigate to it and install.
 
 
 Also for general file transfers for Android devices on a Mac you can use [AndroidFileTransfer](https://www.android.com/filetransfer/)
+
+On the device you can use either the QR code or you can navigate on the device itself using it's browser and input the short link:
+example: 
+j.mp/1sivnbk
+Code: 465
+
+![chart.png]({{site.baseurl}}/docs/chart.png)
 
 
 >IRIS2
