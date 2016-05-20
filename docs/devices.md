@@ -14,7 +14,7 @@ Links expire after 10 days
 ## Uploading and Installing
 
 Delete any previous version of an app before installing a new one  
-> iOS  
+### >iOS  
 
 You can use iTunes to upload your app.
 You can transfer the ipa into your iTunes library and then install to your device.
