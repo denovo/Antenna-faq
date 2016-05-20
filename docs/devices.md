@@ -50,7 +50,7 @@ example:
 j.mp/1sivnbk
 Code: 465
 
-![chart.png]({{site.baseurl}}/docs/chart.png)
+![QRcode](/images/chart.png)
 
 
 >IRIS2
