@@ -100,6 +100,7 @@ Manual Install with expansion files:
 - Combine the two, so the filename of the .obb file reads something like :  ```main.112662.com.antenna.beatles.obb```
 - IF an adhoc build: 
    Adhoc Installs: ```main.113274.com.eachscape.app29310.obb``` (**113274**: build number  **29310**: app number)
+adhoc folder: Android/obb/eachscape.app30791/ (**30791** is app nuumber)
    
 - Make sure that the file extension has definitely changed from .zip to .obb. On a Mac you can use the GetInfo option   to check. On a PC you can right click and check properties. If you can't see a file type on PC - goto folder         options and remove the tick from "hide known type file extension"s in foplder options on Windows systems so you can   rename the .zip
   **IMPORTANT** Make sure that when you rename the expansion file you are overwriting the .zip file extension. This     is the cause in 90% of installation failures.
