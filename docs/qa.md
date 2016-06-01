@@ -1,7 +1,13 @@
+##Sign off on Delivery of app
 
-##BaseApp 
+
+
+
+##BaseApp QA
 
 Testology QA results and sign off to be includeded here:
+
+##What does Antenna Support
 
 
 ##Scrum based QA
@@ -35,6 +41,8 @@ All issues then pass through our internal stages of development and checking bef
 To Do Blocked In Progress Resolved QA Done
 
 Items are moved into resolved normally after “brief” smoke testing by ID/CD, most items will then need proper QA testing but either stage can move to Done depending on the size/seriousness of the issue. If there is an issue with the fix, the issue is defined/commented and moved back into In Progress and reassigned.
+
+##Details needed for creating a ticket
 
 
 
