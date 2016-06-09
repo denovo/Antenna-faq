@@ -11,7 +11,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 test
 
 
-<video width="320" height="240" controls>
+<video width="1422" height="748" controls>
   <source src="/images/Cloud_collection_deleting.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
