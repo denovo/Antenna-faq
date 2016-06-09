@@ -8,7 +8,6 @@ pages:
 - Publisher: 'publisher.md'
 - Cloud and Data Collections: 'CloudCollectionsandData.md'
 - Assets: 'table.md'
-- Reveal Block: 'reveal.md'
 - DM Tools:
     - 'Jira': 'dmtools/jira.md'
     - 'Smarthseet': 'dmtools/smartsheet.md'
