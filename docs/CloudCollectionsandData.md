@@ -4,3 +4,6 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 
 ![Cloud](/images/cloud.png)
+
+
+![addrecord](/images/addrecord.png)
