@@ -17,7 +17,7 @@ Delete any previous version of an app before installing a new one
 Bear in mind that when downloading you need to make sure that .zip files are not being auto extracted by your browser in particular Safari wehere this is often set as the default behaviour. 
 In the menu bar, go Safari -> Preferences. In the "General" tab, uncheck "Open 'safe' files after downloading". This will stop Safari from automatically unzipping the files.
 
-### >iOS  
+## iOS  
 
 You can use iTunes to upload your app.
 
@@ -33,7 +33,7 @@ j.mp/1sivnbk
 Code: 465
 
 
->Android
+## Android
 
 
 You can install via either a long link url: As an example:https://d3099jutct8dja.cloudfront.net/builds/113545/adhoc?Expires=1464530546&Signature=Aa8jPq-ayQyaOgnRGBWi0kvJpBh64kn3wHYNFvRcaakn~rLR3jMdIHPwUrJRnbwA~me1odT3GWjeiWAXYNhfdBpvIrMy-dji-bVU4zFqslfOeUcvWoUUFRROFptkK2jkqOT7GnF8Rn0r4zTuVZCUJ3jW7~vZW8WTSX9VBNtQrWk_&Key-Pair-Id=APKAI42DDOB6K67Z7GBA
@@ -77,7 +77,7 @@ Restart the device once more. Now whenever the device is restarted, the app is q
 
 For more assistance with Antenna Batch - contact the [Product Owner](mailto:ekerrigan@antennainternational.com)
 
->Samsung 4.2 (2.3 android)
+## Samsung 4.2 (2.3 android)
 
 Use Samsung Connect - tbc
 
