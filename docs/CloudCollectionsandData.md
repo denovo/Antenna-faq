@@ -37,11 +37,50 @@ If you need to setup a cloud collection to also have write access - ie to upload
 Cloud collection featrures request doc
 
 
+## Data sheets for Cloud Collections, FTP links, URLs
+
+
+Data sheets still exist, however, now in a Cloud Collection friendly format. This means they remain the same as classic data sheets, with only the columns that host assets (eg thumbnails, images, mp3s, videos) changing slightly, in order to correctly upload them to the CC. This will be explained below.
+
+First, some important things to remember.
+
+Column headers in CC, must match column headers exactly on the data sheets. eg both must read ‘titleline1’ or ‘thumbsubmenu’.
+
+Example 1: Cloud Collection column titles that match the data sheets.
 
 
 
 
-![Cloud](/images/cloud.png)
+![Cloud](/images/example_1_CC_titles.jpg)
+
+CC column order must also match that of the data sheet. When you bulk upload, it is looking to place the data within these specific columns, so you don’t want ‘stop’ data going into ‘language’, or ‘tourtype’ data going into ‘orientation’ etc. It is essential to get this order correct from the beginning. Columns can be added later if necessary, but it’s good practice to get this right from the outset.
+
+
+To be CC friendly, asset URL paths (eg to thumbnails, slides, mp3s, videos etc) must be added in full, to the corresponding cells in the data sheet.
+
+
+Unlike classic data sheets, which have the almost full URL path in the column header and the continuation of it (the asset title and format, eg thumnbail1.jpg) in the cells below, CC has the full URL path to the asset in the cell and only a simple column header title.
+An example can be seen below of the column titled ‘thumbsubmenu’, which holds all the URL links to your sub menu thumbnails. It includes the full path to each individual asset, including your ftp login and password.
+
+
+
+Example 2: CC friendly data sheet. Column G, with individual links to assets on the ftp. Note the URL begins with a user’s log in.
+
+
+![Cloud](/images/example_2_cc_url.jpg)
+
+
+You can copy the URL path to an asset, once logged on to the ftp. You should be able to right click on the asset and copy the URL (with ftp log in) and then paste it into the corresponding data sheet cell. See example below.
+
+Example 3: Copying an asset URL path from the ftp (using fireftp client)
+
+![Cloud](/images/example_3_ftp_w_login.jpg)
+
+
+Alternatively, other ftp clients may display this information differently, but the goal is the same.
+
+
+TW.
 
 
 ![addrecord](/images/addrecord.png)
