@@ -16,11 +16,42 @@ If you need to setup a cloud collection to also have write access - ie to upload
 
 ## BaseApp Cloud
 
+The BaseApp cloud datahseet templates are here: [Google Linjk](https://docs.google.com/spreadsheets/d/1mzh182UB0yWuHtARjlFvmEALS9k7iJhv_Vqz0cXw3X8/edit#gid=1921576986)
+
+The sheets correspond to the columns used within the BaseApp Cloud Collections.
+They are tabbed accordingly.
+
+for further details see - Data sheets for Cloud Collections, FTP links, URLs section of FAQ
+
+## Edit Collection
+
+to be updated
+
 ## Editing Columns
+
+This will most likely be performed by ID's if the cloud collections need to be edited to be non standard or a column needs to be added.
+
+To do this navugate to the Cloud Collection that is to be changed and then choose "Edit Coumns" from the navigational menu. 
+
+Once there you can edit coulmns as needed and change the prder in which columns appear (very slow process with large number of columns) by clicking on the arrow buttons on teh far right.
+
+You can add values to enumerated fields and change visibility to users (for example you could hide a particular field from a clients view).
+
+You can aslo delete columns and rename (proceed with caution).
+
+When creating new columns you will be given the option of the "type" of column to create and wether that column always requires an entry.
+
+If you choose an "Uploaded Image" file type you can also customize the subfileds that are available to view in the app - ie wether the automatically created thumbnail and medium sized asset are also available to select within the app - the default for this is now set to no.
+
+Attachment location - for most apps will be set to in a local file - ie stored in the app itself.
+
+## Adding rows and records
+
+
 
 ## Bulk Upload - Publish latest
 
-## Adding rows and records
+
 
 ## Deleteing
 
