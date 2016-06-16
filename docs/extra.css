@@ -7,17 +7,21 @@
         max-height: 80%;
     }
 }
+
+
 /* Antenna Header Colours*/
-.header, 
-.footer, 
+
+/* most styles are now set in the custom theme folder antenna-material, although any extra styles could still be added below */
+/*.header,
+.footer,
 body
 {
   background-color:#6D7AB3;
 }
 
 
-.drawer .toc a.current, 
-.drawer .toc a:focus, 
+.drawer .toc a.current,
+.drawer .toc a:focus,
 .drawer .toc a:hover {
     color: #6D7AB3;
 }
@@ -28,4 +32,20 @@ body
 
 .article a, .article h1, .article h2 {
     color: #6D7AB3;
+}
+
+.results .meta {
+    background: #6D7AB3;
+    color: #fff;
+}*/
+
+
+.antenna-welcome-logo {
+    max-width: 300px;
+    height: auto;
+}
+
+.result p {
+    padding-bottom: 16px;
+    padding-top: 10px;
 }

@@ -1,7 +1,7 @@
-site_name: FAQ
+site_name: Antenna FAQ
 pages:
 
-- FAQ: 'index.md'
+- Introduction: 'index.md'
 - Devices and Installing: 'devices.md'
 - Base App: 'baseapp.md'
 - App Submission: 'submission.md'
@@ -15,7 +15,8 @@ pages:
     - 'Useful Links': 'dmtools/useful.md'
 - QA: 'qa.md'
 - How to make edits: 'editing_how_to.md'
-theme: 'material'
+theme: null
+theme_dir: 'antenna_material'
 extra_css: [extra.css]
 # theme: spacelab
 # theme: material
