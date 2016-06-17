@@ -13,6 +13,7 @@ You can see the BaseApp cloud collection setup itself for a "standard" Antenna "
 
 If you need to setup a cloud collection to also have write access - ie to upload a "selfie" too please see [Write access](http://support.eachscape.com/customer/en/portal/articles/1430838-authorize-write-access-to-a-cloud-collection) and [Write from an app](http://support.eachscape.com/customer/en/portal/articles/1442667-write-from-an-app-into-a-cloud-collection)
 
+-----------
 
 ## BaseApp Cloud
 
@@ -23,9 +24,13 @@ They are tabbed accordingly.
 
 for further details see - Data sheets for Cloud Collections, FTP links, URLs section of FAQ
 
+-----------
+
 ## Edit Collection
 
+
 to be updated
+
 
 ## Editing Columns
 
