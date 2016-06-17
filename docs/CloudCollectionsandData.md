@@ -124,7 +124,7 @@ See also - Data sheets for Cloud Collections, FTP links, URLs
 
 ## Feature Requests
 
-Cloud collection featrures request doc
+Cloud collection featrures request [doc](https://docs.google.com/spreadsheets/d/1o6uOJL_hNFhOUhbHca6fe3qAuL8WqQY9wdVlZFmIMmg/edit#gid=0)
 
 ----
 ## Data sheets for Cloud Collections, FTP links, URLs
