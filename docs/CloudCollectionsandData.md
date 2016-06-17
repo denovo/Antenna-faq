@@ -64,6 +64,8 @@ Or you can use the addrecord option and then enter as appropiate.
 ![adding rows](/images/addrecord.png)
 
 
+
+
 ----
 ## Bulk Upload - Publish latest
 
@@ -78,6 +80,7 @@ Your browser does not support the video tag.
 
 
 ----
+
 ## Deleteing
 
 
