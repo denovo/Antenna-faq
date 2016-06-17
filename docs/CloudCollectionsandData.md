@@ -103,6 +103,9 @@ Your browser does not support the video tag.
 
 ----
 ## Sorting
+
+
+
 ----
 ## Common Bulk Upload Errors
 
@@ -145,6 +148,11 @@ See also - Data sheets for Cloud Collections, FTP links, URLs
 
 1. You can use the alt/option key to select a column and then drag to resize this will resize all columns.
 
+<video width="800" height="600" controls>
+  <source src="/images/UsingAltKeyCloud.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
 
 ----
 
@@ -153,6 +161,7 @@ See also - Data sheets for Cloud Collections, FTP links, URLs
 Cloud collection featrures request [doc](https://docs.google.com/spreadsheets/d/1o6uOJL_hNFhOUhbHca6fe3qAuL8WqQY9wdVlZFmIMmg/edit#gid=0)
 
 ----
+
 ## Data sheets for Cloud Collections, FTP links, URLs
 
 
@@ -197,15 +206,4 @@ Alternatively, other ftp clients may display this information differently, but t
 
 ----
 
-![addrecord](/images/addrecord.png)
 
-test
-
-
-<video width="640" height="360" controls>
-  <source src="/images/Cloud_collection_deleting.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
-
-test
