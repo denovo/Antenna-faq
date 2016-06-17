@@ -87,7 +87,7 @@ Attachment location - for most apps will be set to in a local file - ie stored i
   </tr>
   <tr>
   <td>Row mismatch error</td>
-  <td>Blank</td>
+  <td>tbc</td>
   </tr>
 
 
@@ -95,7 +95,7 @@ Attachment location - for most apps will be set to in a local file - ie stored i
 </table>
 
 
-
+See also - Data sheets for Cloud Collections, FTP links, URLs
 
 
 ----
@@ -124,7 +124,7 @@ Example 1: Cloud Collection column titles that match the data sheets.
 
 ![Cloud](/images/example_1_CC_titles.jpg)
 
-CC column order must also match that of the data sheet. When you bulk upload, it is looking to place the data within these specific columns, so you don’t want ‘stop’ data going into ‘language’, or ‘tourtype’ data going into ‘orientation’ etc. It is essential to get this order correct from the beginning. Columns can be added later if necessary, but it’s good practice to get this right from the outset.
+CC column order doesn't have to match that of the data sheet but it is good practice to keep the datasheet and the cloud collection aligned.~~When you bulk upload, it is looking to place the data within these specific columns, so you don’t want ‘stop’ data going into ‘language’, or ‘tourtype’ data going into ‘orientation’ etc. It is essential to get this order correct from the beginning. Columns can be added later if necessary, but it’s good practice to get this right from the outset.
 
 
 To be CC friendly, asset URL paths (eg to thumbnails, slides, mp3s, videos etc) must be added in full, to the corresponding cells in the data sheet.
