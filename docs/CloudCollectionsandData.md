@@ -140,7 +140,8 @@ See also - Data sheets for Cloud Collections, FTP links, URLs
 
 ## Tips and Tricks
 
-- You can use the alt/option key to select a column and then drag to resize this will resize all columns.
+1. You can use the alt/option key to select a column and then drag to resize this will resize all columns.
+
 
 ----
 
