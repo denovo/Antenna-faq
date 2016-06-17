@@ -81,6 +81,11 @@ Attachment location - for most apps will be set to in a local file - ie stored i
   <td>The headers on the datasheet youe are uploaidng do not match the column names defined in the cloud collection</td>
   </tr>
   <tr>
+  <td>must be a value in the list</td>
+  <td>The entered value is outside of the enumerated values allowed for that column - check spelling or check alter values allowed in column</td>
+  </tr>
+  </tr>
+  <tr>
   <td>Row mismatch error</td>
   <td>Blank</td>
   </tr>
