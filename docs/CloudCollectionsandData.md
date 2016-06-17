@@ -50,20 +50,22 @@ If you choose an "Uploaded Image" file type you can also customize the subfileds
 
 Attachment location - for most apps will be set to in a local file - ie stored in the app itself.
 
+
+----
 ## Adding rows and records
 
 
-
+----
 ## Bulk Upload - Publish latest
 
 
-
+----
 ## Deleteing
-
+----
 ## Sorting
-
+----
 ## Common Errors
-
+----
 ## When not to use cloud for assets
 
 ## Tips and Tricks
@@ -72,7 +74,7 @@ Attachment location - for most apps will be set to in a local file - ie stored i
 
 Cloud collection featrures request doc
 
-
+----
 ## Data sheets for Cloud Collections, FTP links, URLs
 
 
@@ -117,7 +119,7 @@ Alternatively, other ftp clients may display this information differently, but t
 
 
 TW.
-
+----
 
 ![addrecord](/images/addrecord.png)
 
