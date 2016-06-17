@@ -56,12 +56,12 @@ Attachment location - for most apps will be set to in a local file - ie stored i
 
 You can just enter directly into the cloud by typing or selecting from an enumerated field - you can also upload media in appropiate fields.
 
-![adding rows](manualadd.png)
+![adding rows](/images/manualadd.png)
 
 
 Or you can use the addrecord option and then enter as appropiate.
 
-![adding rows](addrecord.png)
+![adding rows](/images/addrecord.png)
 
 
 ----
