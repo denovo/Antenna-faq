@@ -64,7 +64,14 @@ Attachment location - for most apps will be set to in a local file - ie stored i
 ----
 ## Sorting
 ----
-## Common Errors
+## Common Bulk Upload Errors
+
+
+
+- Connection timed out : try uploading again on a faster connection,clsoe other applications or simpply try again at anothet time as this can sometimes be the ftp being slow to respond.
+
+
+
 ----
 ## When not to use cloud for assets
 
