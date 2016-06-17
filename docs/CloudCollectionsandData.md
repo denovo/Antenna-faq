@@ -61,6 +61,25 @@ Attachment location - for most apps will be set to in a local file - ie stored i
 
 ----
 ## Deleteing
+
+
+Tick the box next to the item you want to delete.
+Then hit the bin icon to delete - hit ok and then reload to see your changes.
+Select the tick all box underneath to delete all or to speed up selction.
+You can select all and then delete to bulk upload an entire new collection (dont forget to reload and publish latest after finishing).
+
+You can not currently delete a single media item in a row. So you can replace with a dummy file or delete thw whole row and start again.
+
+
+
+<video width="1422" height="748" controls>
+  <source src="/images/Cloud_collection_deleting.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
+
+
 ----
 ## Sorting
 ----
