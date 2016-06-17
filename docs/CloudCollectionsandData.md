@@ -72,7 +72,7 @@ You can not currently delete a single media item in a row. So you can replace wi
 
 
 
-<video width="640" height="360" controls>
+<video width="800" height="600" controls>
   <source src="/images/Cloud_collection_deleting.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
