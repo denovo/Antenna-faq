@@ -73,15 +73,15 @@ Attachment location - for most apps will be set to in a local file - ie stored i
     <td>Connection timed out</td>
     <td>try uploading again on a faster connection,clsoe other applications or simpply try again at anothet time as this can sometimes be the ftp being slow to respond.</td></tr>
     <tr>
-    <td>Iris Key Press</td>
-    <td>Run Script - goKeypad</td>
+    <td>media:550 File not Found</td>
+    <td>Missing file - when bulk upload has finished press ctrl+c tto copy errors and then ctrl+v to paste into whatevre text programme you use. The missing files will be identified in that report.</td>
   </tr>
   <tr>
-  <td>Iris Menu tap</td>
-  <td>Blank</td>
+  <td>The headers do not match the number of fiels in this collection</td>
+  <td>The headers on the datasheet youe are uploaidng do not match the column names defined in the cloud collection</td>
   </tr>
   <tr>
-  <td>Iris Search Tap</td>
+  <td>Row mismatch error</td>
   <td>Blank</td>
   </tr>
 
