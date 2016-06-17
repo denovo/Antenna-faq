@@ -59,6 +59,15 @@ Attachment location - for most apps will be set to in a local file - ie stored i
 ## Bulk Upload - Publish latest
 
 
+
+<video width="800" height="600" controls>
+  <source src="/images/cloud collection uploading_lo.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
+
+
 ----
 ## Deleteing
 
@@ -121,6 +130,10 @@ See also - Data sheets for Cloud Collections, FTP links, URLs
 ## When not to use cloud for assets
 
 ## Tips and Tricks
+
+- You can use the alt/option key to select a column and then drag to resize this will resize all columns.
+
+----
 
 ## Feature Requests
 
