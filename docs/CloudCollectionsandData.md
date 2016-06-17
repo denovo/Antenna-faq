@@ -72,7 +72,7 @@ You can not currently delete a single media item in a row. So you can replace wi
 
 
 
-<video width="1422" height="748" controls>
+<video width="640" height="360" controls>
   <source src="/images/Cloud_collection_deleting.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
@@ -169,8 +169,6 @@ Example 3: Copying an asset URL path from the ftp (using fireftp client)
 
 Alternatively, other ftp clients may display this information differently, but the goal is the same.
 
-
-TW.
 ----
 
 ![addrecord](/images/addrecord.png)
@@ -178,7 +176,7 @@ TW.
 test
 
 
-<video width="1422" height="748" controls>
+<video width="640" height="360" controls>
   <source src="/images/Cloud_collection_deleting.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
