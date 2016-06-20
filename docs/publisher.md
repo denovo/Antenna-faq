@@ -53,7 +53,7 @@ Play Audio in Background - http://support.eachscape.com/customer/portal/articles
 
 
 
-> Themes
+Themes
 
 Changes here will not Quick Update
 
@@ -83,7 +83,7 @@ This document’s
 purpose is to provide a brief overview of HTML/CSS commands and common usage within Publisher HTML blocks.
 The useful links are provided to help you find additional commands and syntax as well as providing some useful tools that may help you with your implementation.
 
->##Useful References and Resources
+##Useful References and Resources
 
 w3  - home of the World Wide Web consortium who define the standards
 w3 schools -  for learning and a vast array of sources and examples of code
@@ -99,7 +99,9 @@ Notepad ++ - great free PC tool for writing html etc
 
  is equivalent to 1 device pixel. On Retina Displays, a raster image’s 1 bitmap pixel is equivalent to 4 device pixels. In order to accommodate for the change, Retina display multiplies one bitmap pixel by four. Even though the image is displayed in the same size, it is actually being stretched which causes the image to look blurry
 
-##>Specific Publisher Examples
+------
+
+##Specific Publisher Examples
 
 **Inline Text styling for text block**
 
@@ -110,10 +112,7 @@ Notepad ++ - great free PC tool for writing html etc
 
 Further formatters are available via the Publisher formatting option:
 
-
-
-
-
+----
 **Linking to Publisher Scripts:**
 
 ```
@@ -125,6 +124,9 @@ window.location.href = "script:bounce?inkeypad=true";
 
 <a href="script:Infopart2"><div id="empty">[[ds:/GC_Info/item/info_data]]</div></a>
 ```
+
+
+-----
 
 **Simple image map to scripts:**
 
@@ -167,7 +169,7 @@ height:480px;
 
 ```
 
-
+-----
 
 **Simple image map adding a variable:**
 
@@ -195,7 +197,9 @@ window.location.assign("script:addLayer3?building_id=" + number);
 
 ```
 
-Removing all tap highlights using css:
+----
+
+**Removing all tap highlights using css:
 
 ```
  *{
@@ -212,6 +216,8 @@ and removing all tap long hold events
 }
 ```
 
+----
+
 **Inline styling with html**
 
 <p style="font-family:Verdana"><listyle="color:orange"><strong>Orange</strong></li></p>
@@ -223,7 +229,7 @@ and removing all tap long hold events
 
 
 
-
+----
 
 
 **Stop the displaying of telephone numbers in html**
@@ -267,6 +273,8 @@ font-color:#b066ff;
 }
 ```
 
+----
+
 **Launching an App on Android/returning to Settings**
 
 EVENT - launch an App - com.android.settings/.Settings
@@ -274,9 +282,9 @@ EVENT - launch an App - com.android.settings/.Settings
 As an example would launch the devices settings page.
 
 
+----
 
-
-##**Miscellaneous Tips**
+##Miscellaneous Tips
 
 
 You may already know or do this or us multiple browsers etc but :
@@ -290,17 +298,7 @@ audioCurrentTime
 
 Will mean that your progress bar will start at 0 - set it in your medial got to script
 
-
-
-
-
-
-use | to seperate two variables that you want to match on a conditional (when) statement
-
-
-
-It just looks for string so you dont actually need: etc
-
+---
 
 **Iterating Html list and img assets**
 
