@@ -276,7 +276,7 @@ As an example would launch the devices settings page.
 
 
 
-##>**Miscellaneous Tips**
+##**Miscellaneous Tips**
 
 
 You may already know or do this or us multiple browsers etc but :
