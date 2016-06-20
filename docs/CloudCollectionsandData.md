@@ -117,6 +117,26 @@ Your browser does not support the video tag.
 ----
 ## Sorting
 
+The order in which items initially appear in the cloud collection are simply the order in which they data has been inputted. It does not nessacarily reflect the order in which the items will appear in the application. Below we will cover the two different types of sorting that can be done to the cloud collection, sorting for editing, and sorting for publishing to the application.
+
+### Sorting for editing
+
+The Cloud Collection has the ability to sort by multiple columns/fields. In order to set the primary sort field click the header of the field you wish to sort by. As soon as you click it will automatically sort and update the view. When you click it you will see an 1 and an upward pointing arrow to indicate that's your primary sort field and it's sorted in assending order (lowest to hightest). If you click the field header again it will change it to desending order (highest to lowest). Clicking an additional header will set a secondary field to sort by, again you can click it to change it to desending. Clicking another field header will set a third field, and so on. 
+
+Hints
+>When browsing data for a slideshow in the base_slides collection you will find it useful if you first click language, then subid, then timing. This will group your stops slideshow images in order that they will appear in the app.
+
+Eachscape documentation on sorting
+http://support.eachscape.com/customer/en/portal/articles/1518174-sort-and-search-data-in-a-cloud-collection
+
+### Sorting for editing
+
+One of the ways that you can change the order in which your data is sorted in the app is to click the 'Sort by' icon above your cloud collection. This will change the order in which the data is sorted when you hit Publish Latest. Note it does not effect the sort appearence in the editor. It is also possible that the sort order is overridden in the app. Please consult with your Interactive Designer if you are not seeing your sort changes reflected in the app.
+
+Simular to the sorting for editing covered above, you can set multiple columns for sorting. From the list of columns available for Sorting click the first column you wish to sort by. You can add additional columns if required. Click Save. Click Publish Latest. Once your Collection has published you will be able to see the new order if you click 'Browse Latest'
+
+Hints
+>In most apps the content is filtered by language, so you don't have to worry about sorting by language.
 
 
 ----
