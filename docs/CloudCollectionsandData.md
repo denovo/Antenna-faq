@@ -1,6 +1,18 @@
 ## Cloud Collections
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or 
+Cloud Collection is an enterprise cloud CMS to power Mobile Apps.
+ 
+You can create your own data structure and store all data types
+Text
+Images
+Audio
+Video 
+
+
+Eachscapes official Cloud Collection support [Eachscape](http://support.eachscape.com/customer/en/portal/articles/1368259-eachscape-cloud-collection)
+Please note anything below currently supercedes the help articles in the link above.
+
+----
 
 ## Seting up a Cloud
 
@@ -31,6 +43,7 @@ for further details see - Data sheets for Cloud Collections, FTP links, URLs sec
 
 to be updated
 
+-----
 
 ## Editing Columns
 
@@ -144,6 +157,10 @@ See also - Data sheets for Cloud Collections, FTP links, URLs
 ----
 ## When not to use cloud for assets
 
+
+
+-----
+
 ## Tips and Tricks
 
 1. You can use the alt/option key to select a column and then drag to resize this will resize all columns.
@@ -205,5 +222,3 @@ Example 3: Copying an asset URL path from the ftp (using fireftp client)
 Alternatively, other ftp clients may display this information differently, but the goal is the same.
 
 ----
-
-
