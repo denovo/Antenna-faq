@@ -11,33 +11,7 @@
 
 /* Antenna Header Colours*/
 
-/* most styles are now set in the custom theme folder antenna-material, although any extra styles could still be added below */
-/*.header,
-.footer,
-body
-{
-  background-color:#6D7AB3;
-}
-
-
-.drawer .toc a.current,
-.drawer .toc a:focus,
-.drawer .toc a:hover {
-    color: #6D7AB3;
-}
-
-.drawer .anchor a {
-    border-left: 2px solid #6D7AB3;
-}
-
-.article a, .article h1, .article h2 {
-    color: #6D7AB3;
-}
-
-.results .meta {
-    background: #6D7AB3;
-    color: #fff;
-}*/
+/* most styles are now set in the custom theme folder /antenna-material/ - any extra styles can still be added below: */
 
 
 .antenna-welcome-logo {
@@ -48,4 +22,14 @@ body
 .result p {
     padding-bottom: 16px;
     padding-top: 10px;
+}
+
+blockquote {
+    padding: 10px 20px;
+    margin: 20px 0 20px;
+    border-left: 4px solid #6d7ab3;
+}
+
+blockquote p:first-of-type {
+    margin-top: 0;
 }
