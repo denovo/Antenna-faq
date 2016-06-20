@@ -128,8 +128,7 @@ The Cloud Collection has the ability to sort by multiple columns/fields. In orde
 Helpful Hints
 >When browsing data for a slideshow in the base_slides collection you will find it useful if you first click language, then subid, then timing. This will group your stops slideshow images in order that they will appear in the app.
 
-Eachscape documentation on sorting
-http://support.eachscape.com/customer/en/portal/articles/1518174-sort-and-search-data-in-a-cloud-collection
+[Eachscape documentation on sorting] http://support.eachscape.com/customer/en/portal/articles/1518174-sort-and-search-data-in-a-cloud-collection
 
 ### Sorting for Publishing
 
