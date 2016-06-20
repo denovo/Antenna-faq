@@ -11,7 +11,9 @@
 
 /* Antenna Header Colours*/
 
-/* most styles are now set in the custom theme folder /antenna-material/ - any extra styles can still be added below: */
+
+/* most styles are now set in the custom theme folder /antenna-material/ - any extra styles or overides can still be added below */
+
 
 
 .antenna-welcome-logo {
@@ -23,6 +25,7 @@
     padding-bottom: 16px;
     padding-top: 10px;
 }
+
 
 blockquote {
     padding: 10px 20px;
