@@ -310,3 +310,18 @@ intro_object_image.png    file:///android_asset/intro_object_image.png
 
 
 Add ing file:///android_asset/assetname.jpg as a reference column on data sheet and then adding the thumbs to the media folder means they are picked up by an iterating html block.
+
+
+------
+
+## Samsung 2.3 invalid blocks list
+
+
+
+Below are the button blocks that need to be removed or replaced in order to get a successful Android 2.3 build
+
+Button(v4.15)
+Button (v4.14)
+Button (v4.13)
+
+
