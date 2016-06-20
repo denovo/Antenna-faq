@@ -155,7 +155,7 @@ See also - Data sheets for Cloud Collections, FTP links, URLs
 
 
 ----
-## When not to use cloud for assets
+## When not to use Cloud Collections for assets
 
 
 
