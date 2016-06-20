@@ -14,7 +14,7 @@ Please note anything below currently supercedes the help articles in the link ab
 
 ----
 
-## Seting up a Cloud
+## Setting up a Cloud
 
 The ID will set up or ammend BaseApp Cloud collections as needed for the particular project.
 A brief guide to setting up a cloud collection can be found here:
@@ -122,6 +122,8 @@ The order in which items initially appear in the cloud collection are simply the
 ### Sorting for Editing
 
 The Cloud Collection has the ability to sort by multiple columns/fields. In order to set the primary sort field click the header of the field you wish to sort by. As soon as you click it will automatically sort and update the view. When you click it you will see an 1 and an upward pointing arrow to indicate that's your primary sort field and it's sorted in assending order (lowest to hightest). If you click the field header again it will change it to desending order (highest to lowest). Clicking an additional header will set a secondary field to sort by, again you can click it to change it to desending. Clicking another field header will set a third field, and so on. 
+
+If you want to remove the sorting options, simply click on the link to the same cloud collection, or refresh the page.Sorting options do not persist after you have left the page.
 
 ![sort for edit](/images/SortForEdit.jpg)
 
