@@ -47,7 +47,7 @@ to be updated
 
 ## Editing Columns
 
-This will most likely be performed by ID's if the cloud collections need to be edited to be non standard or a column needs to be added. Editing a columns name requires recoding any references to that column in the app.
+This will most likely be performed by ID's if the cloud collections need to be edited to be non standard or a column needs to be added. Editing a column's name requires recoding any references to that column in the app.
 
 To do this navugate to the Cloud Collection that is to be changed and then choose "Edit Coumns" from the navigational menu. 
 
