@@ -83,6 +83,21 @@ This document’s
 purpose is to provide a brief overview of HTML/CSS commands and common usage within Publisher HTML blocks.
 The useful links are provided to help you find additional commands and syntax as well as providing some useful tools that may help you with your implementation.
 
+
+## Import and Export of apps
+
+
+
+Please note currently when imoporting and exporting an app - not all devcie settings are currently transffered to the import: see below
+
+
+!(images/OriginalvsImported.jpg)
+
+
+
+
+-----
+
 ##Useful References and Resources
 
 w3  - home of the World Wide Web consortium who define the standards
@@ -321,5 +336,3 @@ Below are the button blocks that need to be removed or replaced in order to get 
 Button(v4.15)
 Button (v4.14)
 Button (v4.13)
-
-
