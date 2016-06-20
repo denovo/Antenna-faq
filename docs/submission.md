@@ -8,7 +8,7 @@ See the Base App tab for more info on generating builds and certificates for dow
 >##iOS iTunes Store
 
 All apps submitted to Apple have to go tthrough a review process.
-This can take between 5-10 days please allow this in your schedules.
+This can take between 1-10 days please allow this in your schedules.
 You can check current reviw time trends here: 
 [Current App review times](http://appreviewtimes.com/)
 
