@@ -94,7 +94,7 @@ Your browser does not support the video tag.
 
 ----
 
-## Deleteing
+## Deleting
 
 
 Tick the box next to the item you want to delete.
