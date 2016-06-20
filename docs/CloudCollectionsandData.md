@@ -123,7 +123,9 @@ The order in which items initially appear in the cloud collection are simply the
 
 The Cloud Collection has the ability to sort by multiple columns/fields. In order to set the primary sort field click the header of the field you wish to sort by. As soon as you click it will automatically sort and update the view. When you click it you will see an 1 and an upward pointing arrow to indicate that's your primary sort field and it's sorted in assending order (lowest to hightest). If you click the field header again it will change it to desending order (highest to lowest). Clicking an additional header will set a secondary field to sort by, again you can click it to change it to desending. Clicking another field header will set a third field, and so on. 
 
-Hints
+![sort for edit](/images/SortForEdit.jpg)
+
+Helpful Hints
 >When browsing data for a slideshow in the base_slides collection you will find it useful if you first click language, then subid, then timing. This will group your stops slideshow images in order that they will appear in the app.
 
 Eachscape documentation on sorting
@@ -135,7 +137,9 @@ One of the ways that you can change the order in which your data is sorted in th
 
 Simular to the sorting for editing covered above, you can set multiple columns for sorting. From the list of columns available for Sorting click the first column you wish to sort by. You can add additional columns if required. Click Save. Click Publish Latest. Once your Collection has published you will be able to see the new order if you click 'Browse Latest'
 
-Hints
+![sort for publish](/images/SortForPublish.jpg)
+
+Helpful Hints
 >In most apps the content is filtered by language, so you don't have to worry about sorting by language.
 
 
