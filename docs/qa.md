@@ -96,20 +96,41 @@ Build number:
 
 Please also add any screenshots/videos to help explain the issue:
 
+TIME CONSTRAINTS:
 
+any additional time based information
 
 
 ##Emulators and SDK tools
 
 
->iOS
+**Eachscape Inspector
+
+
+----
+
+
+**iOS
+
+iOS Builds can be tested by making a simulator build from within Publisher.
+This can then be downlaoded and run in the iOS Simulator.
+The simulator is part of the XCode download:
+
+[xcode](https://developer.apple.com/xcode/)
+
+Once you have the simulator and a simulator ready version of the app for testing you can manually install the app by using the following command in terminal:
 
 To manually install to the simulator:
  xcrun simctl install booted <location of .app file>
 
-And to clear simulator builds 
+After a while you may get a lot of simulator builds installed and this can take up a lot of space on your hard drive - to celar them - open terminal and:
 
 xcrun simctl erase all
+
+
+----
+
+**Android
 
 Announcing: Cloud Test Lab
 The Cloud Test Lab will test your app on a wide range of popular physical Android phones and tablets. Sign up below for early access to the Cloud Test Lab service! 
@@ -118,3 +139,9 @@ https://developers.google.com/cloud-test-lab/?hl=en  https://firebase.google.com
 
 
 
+----
+
+**Android SDK tools
+
+
+-----
