@@ -29,7 +29,7 @@ If you need to setup a cloud collection to also have write access - ie to upload
 
 ## BaseApp Cloud
 
-The BaseApp cloud datahseet templates are here: [Google Linjk](https://docs.google.com/spreadsheets/d/1mzh182UB0yWuHtARjlFvmEALS9k7iJhv_Vqz0cXw3X8/edit#gid=1921576986)
+The BaseApp cloud datahseet templates are here: [Google Link](https://docs.google.com/spreadsheets/d/1mzh182UB0yWuHtARjlFvmEALS9k7iJhv_Vqz0cXw3X8/edit#gid=1921576986)
 
 The sheets correspond to the columns used within the BaseApp Cloud Collections.
 They are tabbed accordingly.
@@ -128,7 +128,7 @@ The Cloud Collection has the ability to sort by multiple columns/fields. In orde
 Helpful Hints
 >When browsing data for a slideshow in the base_slides collection you will find it useful if you first click language, then subid, then timing. This will group your stops slideshow images in order that they will appear in the app.
 
-[Eachscape documentation on sorting] (http://support.eachscape.com/customer/en/portal/articles/1518174-sort-and-search-data-in-a-cloud-collection)
+[Eachscape documentation on sorting](http://support.eachscape.com/customer/en/portal/articles/1518174-sort-and-search-data-in-a-cloud-collection)
 
 ### Sorting for Publishing
 
