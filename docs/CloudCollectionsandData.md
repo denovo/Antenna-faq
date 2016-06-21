@@ -65,6 +65,7 @@ Attachment location - for most apps will be set to in a local file - ie stored i
 
 
 ----
+
 ## Adding rows and records
 
 You can just enter directly into the cloud by typing or selecting from an enumerated field - you can also upload media in appropiate fields.
@@ -72,7 +73,7 @@ You can just enter directly into the cloud by typing or selecting from an enumer
 ![adding rows](/images/manualadd.png)
 
 
-Or you can use the addrecord option and then enter as appropiate.
+Or you can use the add record option and then enter as appropiate.
 
 ![adding rows](/images/addrecord.png)
 
@@ -98,9 +99,9 @@ You can then hit submit and upload the data - the bulk upload will then proceed 
 At the end of the procedure you can use Ctrl+C to cop any errros from the upload and paste them onto a document elsewhere. 
 You then have to refresh the CloudCollection to see your updats and then hit Publish latest to send them to the app.
 
-See the video below for a wlakthrough:
+See the video below for a walkthrough:
 
-
+> Don't forget to Publish Latest when finished!
 
 
 <video width="800" height="600" controls>
