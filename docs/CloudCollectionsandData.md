@@ -246,7 +246,7 @@ Example 1: Cloud Collection column titles that match the data sheets.
 
 ![Cloud](/images/example_1_CC_titles.jpg)
 
-CC column order doesn't have to match that of the data sheet but it is good practice to keep the datasheet and the cloud collection aligned.<p style="text-decoration:line-through">~~When you bulk upload, it is looking to place the data within these specific columns, so you don’t want ‘stop’ data going into ‘language’, or ‘tourtype’ data going into ‘orientation’ etc. It is essential to get this order correct from the beginning. Columns can be added later if necessary, but it’s good practice to get this right from the outset.<p/>>~~
+CC column order doesn't have to match that of the data sheet but it is good practice to keep the datasheet and the cloud collection aligned.<p style="text-decoration:line-through">When you bulk upload, it is looking to place the data within these specific columns, so you don’t want ‘stop’ data going into ‘language’, or ‘tourtype’ data going into ‘orientation’ etc. It is essential to get this order correct from the beginning. Columns can be added later if necessary, but it’s good practice to get this right from the outset.<p/>
 
 
 To be CC friendly, asset URL paths (eg to thumbnails, slides, mp3s, videos etc) must be added in full, to the corresponding cells in the data sheet.
