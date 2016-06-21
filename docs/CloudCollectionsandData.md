@@ -82,15 +82,36 @@ Or you can use the addrecord option and then enter as appropiate.
 ----
 ## Bulk Upload - Publish latest
 
+You can bulk upload by using the !(images/Bulk_icon.png)
+
+
+This enables you to copy and paste in data from an external source.
+
+In our case this will most liekly be an Antenna formatted datasheet.
+
+You simply select the fileds to be entered on the datasheet and copy and paste into the box (first deleting the existing headers).
+
+For cloud collections the ftp/data links need to be inline for each item.
+
+You can then hit submit and upload the data - the bulk upload will then proceed and give you visual feedback to the success. Turning a row green if all is ok or red if their is an upload error.
+
+At the end of the procedure you can use Ctrl+C to cop any errros from the upload and paste them onto a document elsewhere. 
+You then have to refresh the CloudCollection to see your updats and then hit Publish latest to send them to the app.
+
+See the video below for a wlakthrough:
+
+
 
 
 <video width="800" height="600" controls>
-  <source src="/images/cloud collection uploading_lo.mp4" type="video/mp4">
+  <source src="/images/BulkUpload_Cloud.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video>
 
 
+
+Common upload errors are refrenced in the section below.
 
 ----
 
