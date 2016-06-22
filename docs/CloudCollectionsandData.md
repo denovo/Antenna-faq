@@ -203,7 +203,9 @@ See also - Data sheets for Cloud Collections, FTP links, URLs
 
 ----
 
+## Getting your Data back put of the CLoud Collection
 
+CSV export
 
 
 -----
@@ -220,6 +222,11 @@ Your browser does not support the video tag.
 
 
 2. Sorting or adding rows using a Sort Order Column
+
+3. You can quickly fill a cloud ollection with "text" only items to save enterign large amounts of enteries over and over again and then simply upoad the required media.
+
+4.You can use Bulk Upload tab to capture the hedears/columns from a Cloud Collection to setup a new datahseet - that way you can be sure they will match.
+
 
 
 ----
