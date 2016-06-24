@@ -337,4 +337,5 @@ Button(v4.15)
 Button (v4.14)
 Button (v4.13)
 Html (v4.01)
+Image (v4.50)
 ----
