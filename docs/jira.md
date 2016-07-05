@@ -9,6 +9,7 @@ Creating a Bug Tracking Project
 
 ## Adding a Kanban Board for issues
 
+[video](https://drive.google.com/file/d/0B-4IrW_F-LIRN3pSNEhNSzIxS1E/view?usp=sharing)
 
 
 ## What kind of information do I need to put in a Jira ticket?
