@@ -12,6 +12,7 @@ pages:
 - DM Tools:
     - 'Jira': 'dmtools/jira.md'
     - 'Smarthseet': 'dmtools/smartsheet.md'
+    - 'Legacy Compilers': 'dmtools/compiler.md'
     - 'Useful Links': 'dmtools/useful.md'
 - QA: 'qa.md'
 - How to make edits: 'editing_how_to.md'
