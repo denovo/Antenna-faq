@@ -406,7 +406,7 @@ For downloables to clienets store fronts these should be updated to the clients 
 
 **Changing the Theme**
 
-The Base app’s default theme setting is dark. To switch to light or custom, copy the Base app into a new workspace, delete the unneeded theme and change the base font’s in Theme’s. Going from Dark to Light, where the font was #ffffff change to #595959 and the secondary coloured font from #595959 to #ffffff. Individual background colours on the top level canvas of each view. Default background colour is set via the theme’s collection in the blackorwhite column. Text displayed in HTML blocks is pulled from the HTMLTextColour column, dark setting is #fffff light is #595959
+The Base app’s default theme setting is dark. To switch to light or custom, copy the Base app into a new workspace, delete the unneeded theme records from base_themes and base_keypad and change the colour of the fonts in the Themes section. Going from Dark to Light, where the font was #ffffff change to #595959 and the secondary coloured font from #595959 to #ffffff. Individual background colours on the top level canvas of each view. Default background colour is set via the theme’s collection in the blackorwhite column. Text displayed in HTML blocks is pulled from the HTMLTextColour column, dark setting is #fffff light is #595959
 
 If your app has a survey the font colours are set in base_survey_config. 
 
