@@ -108,7 +108,7 @@ This is going to open up Excel and import the information from the spreadsheet.
 
 You will now see a list of the stops on your tour. If you have multiple languages you can change the list you are viewing by clicking on the different language in the top portion of the screen. After checking all the information is correct you can now go to Step 3.
 
-[[Image:XPClassicCompile.JPG]]
+!(images\XPClassicCompile.JPG)
 This is a screenshot of the XP Classic compiler
 
 '''Step 2 without a speadsheet'''
@@ -124,8 +124,8 @@ The first column is the Stop no. This is the number the visitor will enter into 
 '''Step 3'''
 
 Go to the button at the top labeled CHANGE under the Project Details label. Click it, and you’ll get one of these screens (depending on which compiler): 
-[[Image:Plus options.JPG]]
-[[Image:Classic options.JPG]]
+!(images\Plus options.JPG)
+!(Image:Classic options.JPG)
 
 Okay, there’s a few of these we’re going to ignore right now. The ones that need filling in are: 
 
@@ -148,11 +148,11 @@ Go to FILE>SAVE and save your program as an .xpp file. This file is VERY IMPORTA
 
 Now go to FILE> COMPILE! It’ll do it’s thing and chew all of your files up. If it had trouble finding any files, it will tell you. It also, which is a nice touch, will tell you if you have any duplicate numbers in your spreadsheet. When this is done, take a quick look in your COMPILE folder. You should see files that look like this:
 
-[[Image:XPplus_compiled.jpg]]
+!(images\XPplus_compiled.jpg)
 
 Now all you have to do now is go to the FILE menu and select COPY TO MEDIA. When it’s done doing its thing, check your COMPILED folder. It should look like this:
 
-[[Image:XPplus_Compiled2.jpg]]
+!(images\XPplus_Compiled2.jpg)
 
 '''XP+''' 
 
