@@ -124,6 +124,7 @@ The first column is the Stop no. This is the number the visitor will enter into 
 '''Step 3'''
 
 Go to the button at the top labeled CHANGE under the Project Details label. Click it, and you’ll get one of these screens (depending on which compiler): 
+
 ![plusoptions](/images/Plus options.JPG)
 ![classicoptions](/images/Classic options.JPG)
 
