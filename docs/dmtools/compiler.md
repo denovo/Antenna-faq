@@ -1,4 +1,4 @@
-==The Use of this page==
+###This text orginally appears on the Antenna Gmis Wiki
 
 This page is designed to contain useful information, tips, tricks, workarounds and solutions to problems experienced with the AA compiling software in all its forms.
 
