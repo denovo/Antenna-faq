@@ -123,10 +123,12 @@ The first column is the Stop no. This is the number the visitor will enter into 
 
 '''Step 3'''
 
-Go to the button at the top labeled CHANGE under the Project Details label. Click it, and you’ll get one of these screens (depending on which compiler): 
+Go to the button at the top labeled CHANGE under the Project Details label. Click it, and you’ll get one of these screens (depending on which compiler):
 
-![plusoptions](/images/Plus_options.JPG)
-![classicoptions](/images/Classic_options.JPG)
+
+![plusoptions](images/Plus_options.JPG)
+![classicoptions](images/Classic_options.JPG)
+
 
 Okay, there’s a few of these we’re going to ignore right now. The ones that need filling in are: 
 
