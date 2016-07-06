@@ -125,8 +125,8 @@ The first column is the Stop no. This is the number the visitor will enter into 
 
 Go to the button at the top labeled CHANGE under the Project Details label. Click it, and you’ll get one of these screens (depending on which compiler): 
 
-![plusoptions](/images/Plus options.JPG)
-![classicoptions](/images/Classic options.JPG)
+![plusoptions](/images/Plus_options.JPG)
+![classicoptions](/images/Classic_options.JPG)
 
 Okay, there’s a few of these we’re going to ignore right now. The ones that need filling in are: 
 
@@ -151,9 +151,10 @@ Now go to FILE> COMPILE! It’ll do it’s thing and chew all of your files up. 
 
 ![xpplus](/images/XPplus_compiled.jpg)
 
+
 Now all you have to do now is go to the FILE menu and select COPY TO MEDIA. When it’s done doing its thing, check your COMPILED folder. It should look like this:
 
-![xPpluscompiled2](/images/XPplus_Compiled2.jpg)
+![XPpluscompiled2](/images/XPplus_Compiled2.jpg)
 
 '''XP+''' 
 
