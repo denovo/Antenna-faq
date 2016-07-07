@@ -203,9 +203,15 @@ See also - Data sheets for Cloud Collections, FTP links, URLs
 
 ----
 
-## Getting your Data back put of the CLoud Collection
+## Getting your Data back put of the CLoud Collection - LookUp Tables
 
-CSV export
+To export your data back out of the CLoudCollection you can simply choose the CSV export option at the top of the page.
+
+This will create a CSV file of the data which can be opened and edited in Google/Excel etc.
+
+Currently the exported data will include additional columns which may not to be deleted.
+
+You can also use this method to create lookup tables for Data Reporting with durations included as the CSV file will include media durations
 
 
 -----
