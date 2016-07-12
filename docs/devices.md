@@ -5,7 +5,7 @@ Download links should be provided as a hyperlink, they should also include the s
 
 Android files will be provided at the relevant OS as an .apk file they may also include a link to a content ditribution (expansion) file to be loaded .
 
-iOS files will be provided at the relevant OS as an .ipa file /or a .zip which will contain both an .ipa and provisioning file.
+iOS files will be provided at the relevant OS as an .ipa file /or a .zip which will contain both a .app file and provisioning file.
 
 Links expire after 10 days
 
@@ -21,11 +21,11 @@ In the menu bar, go Safari -> Preferences. In the "General" tab, uncheck "Open '
 
 You can use iTunes to upload your app.
 
-You can transfer the ipa into your iTunes library and then install to your device.
+You can transfer the ipa into your iTunes library and then install to your device. If you were provided with the .zip, you need to open the the .zip file and then drag the resulting folder into iTunes.
 
 You can install via either a long link url: As an example:https://d3099jutct8dja.cloudfront.net/builds/113545/adhoc?Expires=1464530546&Signature=Aa8jPq-ayQyaOgnRGBWi0kvJpBh64kn3wHYNFvRcaakn~rLR3jMdIHPwUrJRnbwA~me1odT3GWjeiWAXYNhfdBpvIrMy-dji-bVU4zFqslfOeUcvWoUUFRROFptkK2jkqOT7GnF8Rn0r4zTuVZCUJ3jW7~vZW8WTSX9VBNtQrWk_&Key-Pair-Id=APKAI42DDOB6K67Z7GBA
 
-This will downlaod to your hard drive and  can then be transffered to your device.
+This will download to your hard drive and  can then be transffered to your device.
 
 On the device you can use either the QR code or you can navigate on the device using it's browser and input the short link:
 example: 
@@ -38,7 +38,7 @@ Code: 465
 
 You can install via either a long link url: As an example:https://d3099jutct8dja.cloudfront.net/builds/113545/adhoc?Expires=1464530546&Signature=Aa8jPq-ayQyaOgnRGBWi0kvJpBh64kn3wHYNFvRcaakn~rLR3jMdIHPwUrJRnbwA~me1odT3GWjeiWAXYNhfdBpvIrMy-dji-bVU4zFqslfOeUcvWoUUFRROFptkK2jkqOT7GnF8Rn0r4zTuVZCUJ3jW7~vZW8WTSX9VBNtQrWk_&Key-Pair-Id=APKAI42DDOB6K67Z7GBA
 
-This will downlaod to your hard drive and  can then be transffered to your device.
+This will download to your hard drive and can then be transffered to your device.
 
 
 Connect your device and then drag your app to a folder on the device.
