@@ -433,7 +433,15 @@ Assets for the Base app should be provided according to the specifictions outlin
 
 [Smarthseet Asset Sheet](https://app.smartsheet.com/b/home?lx=l6wb_Bu1VgEdeH8pmgRJyA)
 
-***Smarthseet needs a pass to check***
+The subfolders located here are the official and current location for the individual “cut” assets:
+
+/FTP_Cloud/GUIDELINES_DOCUMENTS/ANTENNNA_APPLICATIONS_DOCUMENTATION_ASSETS
+
+For example:
+/FTP_Cloud/GUIDELINES_DOCUMENTS/ANTENNNA_APPLICATIONS_DOCUMENTATION_ASSETS/android_800_400_samsung
+
+
+This is a uesful tool when calculating any asset sizes for the Baseapp.
 
 [Useful Asset size calculator](tinyurl.com/nevcalc)
 
