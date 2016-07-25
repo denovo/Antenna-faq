@@ -443,7 +443,7 @@ For example:
 
 This is a uesful tool when calculating any asset sizes for the Baseapp.
 
-[Useful Asset size calculator](tinyurl.com/nevcalc)
+[Useful Asset size calculator](https://nevedwards101.github.io/screencalc/)
 
 -----
 
