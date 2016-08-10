@@ -10,7 +10,8 @@ pages:
 - Cloud and Data Collections: 'CloudCollectionsandData.md'
 - Assets: 'assets.md'
 - Compilers: 
-	- 'Legacy Compilers': 'dmtools/compiler.md'
+	- 'Legacy Compilers': 'compilers/compiler.md'
+    - 'XP-2':'blank.md'
 - DM Tools:
     - 'Jira': 'dmtools/jira.md'
     - 'Smarthseet': 'dmtools/smartsheet.md'
