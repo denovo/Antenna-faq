@@ -53,7 +53,9 @@ When finished go back to iTunesConnect and select the uploaded build under the "
 When your happy with all the details subt your app for review.  
 
 
+UPDATE 10/08/16: "it’s easier than ever to deliver your screenshots and app preview using iTunes Connect. Just submit one set of screenshots and one optional app preview for the largest device size within a device family, and they will be used across all localizations and display sizes.
 
+If your app’s UI or behavior changes based on device size, or if you would like to include localized screenshots, you can use the new Media Manager to add custom screenshots". [Learn more](https://developer.apple.com/videos/play/wwdc2016/305/?time=1700)
 
 
 
