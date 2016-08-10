@@ -9,10 +9,11 @@ pages:
 - Reveal: 'reavealblock.md'
 - Cloud and Data Collections: 'CloudCollectionsandData.md'
 - Assets: 'assets.md'
+- Compilers: 
+	- 'Legacy Compilers': 'dmtools/compiler.md'
 - DM Tools:
     - 'Jira': 'dmtools/jira.md'
     - 'Smarthseet': 'dmtools/smartsheet.md'
-    - 'Legacy Compilers': 'dmtools/compiler.md'
     - 'Useful Links': 'dmtools/useful.md'
 - QA: 'qa.md'
 - How to make edits: 'editing_how_to.md'
