@@ -15,7 +15,7 @@ pages:
     - 'Useful Links': 'dmtools/useful.md'
 - QA: 'qa.md'
 - Compilers: 
-	- 'Legacy Compilers': 'compilers/compiler.md'
+    - 'Legacy Compilers': 'compilers/compiler.md'
     - 'XP-2': 'compilers/xp2.md'
 - How to make edits: 'editing_how_to.md'
 theme: null
