@@ -16,7 +16,6 @@ pages:
 - QA: 'qa.md'
 - Compilers: 
     - 'Legacy Compilers': 'compilers/compiler.md'
-    - 'XP-2': 'compilers/xp2.md'
 - How to make edits: 'editing_how_to.md'
 theme: null
 theme_dir: 'antenna_material'
