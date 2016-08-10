@@ -1,38 +1,26 @@
-**## This text orginally appears on the Antenna Gmis Wiki**
-
-This page is designed to contain useful information, tips, tricks, workarounds and solutions to problems experienced with the AA compiling software in all its forms.
+**This text orginally appears on the Antenna Gmis Wiki**
 
 ##XP+ & XP Classic Compiler
 
 **Creating a Project from Scratch (XP+ and XP Classic)**
 
 **Creating a your mp3s**
+
 Before you compress your wavs you're going to want to find out how much memory your player has. This will determine the bitrate you compress your files at. Contact the Tech Department for this. Below is a table showing the general guidelines for storage size and bit rates. (Please note this table is actually for XP Classic. Because of firmware the actual space remaining on the player for the program is less than the size of the onboard memory. 256Mb=222Mb actual, 512=461Mb and 1Gb=929Mb)
 
-{| border="1"
-|+
-! Bit Rate !! 256Mb Player !! 512Mb Player !! 1Gb Player
-|-
-! 64kbps
-| 444mins or 7hrs 24mins
-| 922mins or 15hrs 21mins
-| 1858mins or 30hrs 57mins
-|-
-! 96kbps
-| 296mins or 4hrs 56mins
-| 614mins or 10hrs 14mins
-| 1238mins or 20hrs 38mins
-|-
-! 112kbps
-| 253mins or 4hrs 12mins
-| 526mins or 8hrs 46mins
-| 1061mins or 17hrs 41mins
-|-
-! 128kbps
-| 222mins or 3hrs 42mins
-| 461mins or 7hrs 40mins
-| 929mins or 15hrs 29mins
-|}
+<table>
+  <tr>
+    <td>Bit Rate</td>
+    <td>256Mb Player</td><td>512Mb Player</td><td>1Gb Player</td></tr>
+    <tr>
+    <td>64kbps</td><td>444mins or 7hrs 24mins<td>922mins or 15hrs 21mins</td><td>1858mins or 30hrs 57mins</td>
+  
+  </tr>
+  <tr>
+  <td>128kbps</td>
+  <td>222mins or 3hrs 42mins</td><td>461mins or 7hrs 40mins</td><td>929mins or 15hrs 29mins</td>
+  </tr>
+  </table>
 
 To calculate length of time based on storage size and bit rate, use this calculation:
 
