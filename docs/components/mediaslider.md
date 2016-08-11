@@ -1,4 +1,4 @@
-# HTML MediaSlider Install Notes
+# HTML Media Slider Install Notes
 
 ## Media Library Assets
 
