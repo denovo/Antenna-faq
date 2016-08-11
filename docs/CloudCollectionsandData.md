@@ -14,7 +14,7 @@ Please note anything below currently supercedes the help articles in the link ab
 
 ----
 
-## Seting up a Cloud
+## Setting up a Cloud
 
 The ID will set up or ammend BaseApp Cloud collections as needed for the particular project.
 A brief guide to setting up a cloud collection can be found here:
@@ -65,6 +65,7 @@ Attachment location - for most apps will be set to in a local file - ie stored i
 
 
 ----
+
 ## Adding rows and records
 
 You can just enter directly into the cloud by typing or selecting from an enumerated field - you can also upload media in appropiate fields.
@@ -72,7 +73,7 @@ You can just enter directly into the cloud by typing or selecting from an enumer
 ![adding rows](/images/manualadd.png)
 
 
-Or you can use the addrecord option and then enter as appropiate.
+Or you can use the add record option and then enter as appropiate.
 
 ![adding rows](/images/addrecord.png)
 
@@ -82,15 +83,36 @@ Or you can use the addrecord option and then enter as appropiate.
 ----
 ## Bulk Upload - Publish latest
 
+You can bulk upload by using the !(images/Bulk_icon.png)
+
+
+This enables you to copy and paste in data from an external source.
+
+In our case this will most liekly be an Antenna formatted datasheet.
+
+You simply select the fileds to be entered on the datasheet and copy and paste into the box (first deleting the existing headers).
+
+For cloud collections the ftp/data links need to be inline for each item.
+
+You can then hit submit and upload the data - the bulk upload will then proceed and give you visual feedback to the success. Turning a row green if all is ok or red if their is an upload error.
+
+At the end of the procedure you can use Ctrl+C to cop any errros from the upload and paste them onto a document elsewhere. 
+You then have to refresh the CloudCollection to see your updats and then hit Publish latest to send them to the app.
+
+See the video below for a walkthrough:
+
+> Don't forget to Publish Latest when finished!
 
 
 <video width="800" height="600" controls>
-  <source src="/images/cloud collection uploading_lo.mp4" type="video/mp4">
+  <source src="/images/BulkUpload_Cloud.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video>
 
 
+
+Common upload errors are refrenced in the section below.
 
 ----
 
@@ -122,6 +144,8 @@ The order in which items initially appear in the cloud collection are simply the
 ### Sorting for Editing
 
 The Cloud Collection has the ability to sort by multiple columns/fields. In order to set the primary sort field click the header of the field you wish to sort by. As soon as you click it will automatically sort and update the view. When you click it you will see an 1 and an upward pointing arrow to indicate that's your primary sort field and it's sorted in assending order (lowest to hightest). If you click the field header again it will change it to desending order (highest to lowest). Clicking an additional header will set a secondary field to sort by, again you can click it to change it to desending. Clicking another field header will set a third field, and so on. 
+
+If you want to remove the sorting options, simply click on the link to the same cloud collection, or refresh the page.Sorting options do not persist after you have left the page.
 
 ![sort for edit](/images/SortForEdit.jpg)
 
@@ -178,8 +202,16 @@ See also - Data sheets for Cloud Collections, FTP links, URLs
 
 
 ----
-## When not to use Cloud Collections for assets
 
+## Getting your Data back put of the CLoud Collection - LookUp Tables
+
+To export your data back out of the CLoudCollection you can simply choose the CSV export option at the top of the page.
+
+This will create a CSV file of the data which can be opened and edited in Google/Excel etc.
+
+Currently the exported data will include additional columns which may not to be deleted.
+
+You can also use this method to create lookup tables for Data Reporting with durations included as the CSV file will include media durations
 
 
 -----
@@ -193,6 +225,15 @@ See also - Data sheets for Cloud Collections, FTP links, URLs
   <source src="movie.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video>
+
+
+2. Sorting or adding rows using a Sort Order Column
+
+3. You can quickly fill a cloud ollection with "text" only items to save enterign large amounts of enteries over and over again and then simply upoad the required media.
+
+4.You can use Bulk Upload tab to capture the hedears/columns from a Cloud Collection to setup a new datahseet - that way you can be sure they will match.
+
+
 
 ----
 
@@ -218,7 +259,7 @@ Example 1: Cloud Collection column titles that match the data sheets.
 
 ![Cloud](/images/example_1_CC_titles.jpg)
 
-CC column order doesn't have to match that of the data sheet but it is good practice to keep the datasheet and the cloud collection aligned.~~When you bulk upload, it is looking to place the data within these specific columns, so you don’t want ‘stop’ data going into ‘language’, or ‘tourtype’ data going into ‘orientation’ etc. It is essential to get this order correct from the beginning. Columns can be added later if necessary, but it’s good practice to get this right from the outset.
+CC column order doesn't have to match that of the data sheet but it is good practice to keep the datasheet and the cloud collection aligned.<p style="text-decoration:line-through">When you bulk upload, it is looking to place the data within these specific columns, so you don’t want ‘stop’ data going into ‘language’, or ‘tourtype’ data going into ‘orientation’ etc. It is essential to get this order correct from the beginning. Columns can be added later if necessary, but it’s good practice to get this right from the outset.<p/>
 
 
 To be CC friendly, asset URL paths (eg to thumbnails, slides, mp3s, videos etc) must be added in full, to the corresponding cells in the data sheet.
@@ -243,5 +284,12 @@ Example 3: Copying an asset URL path from the ftp (using fireftp client)
 
 
 Alternatively, other ftp clients may display this information differently, but the goal is the same.
+
+----
+
+## When not to use Cloud Collections for assets
+
+
+Samsung 2.3 cases tbc
 
 ----

@@ -406,8 +406,9 @@ For downloables to clienets store fronts these should be updated to the clients 
 
 **Changing the Theme**
 
-The Base app’s default theme setting is dark. To switch to light or custom, copy the Base app into a new workspace, delete the unneeded theme and change the base font’s in Theme’s and individual background colours on the top level canvas of each view. Default background colour is set via the theme’s collection in the blackorwhite column.
+The Base app’s default theme setting is dark. To switch to light or custom, copy the Base app into a new workspace, delete the unneeded theme records from base_themes and base_keypad and change the colour of the fonts in the Themes section. Going from Dark to Light, where the font was #ffffff change to #595959 and the secondary coloured font from #595959 to #ffffff. Individual background colours on the top level canvas of each view. Default background colour is set via the theme’s collection in the blackorwhite column. Text displayed in HTML blocks is pulled from the HTMLTextColour column, dark setting is #fffff light is #595959
 
+If your app has a survey the font colours are set in base_survey_assets. 
 
 **Fonts**
 
@@ -432,9 +433,17 @@ Assets for the Base app should be provided according to the specifictions outlin
 
 [Smarthseet Asset Sheet](https://app.smartsheet.com/b/home?lx=l6wb_Bu1VgEdeH8pmgRJyA)
 
-***Smarthseet needs a pass to check***
+The subfolders located here are the official and current location for the individual “cut” assets:
 
-[Useful Asset size calculator](tinyurl.com/nevcalc)
+/FTP_Cloud/GUIDELINES_DOCUMENTS/ANTENNNA_APPLICATIONS_DOCUMENTATION_ASSETS
+
+For example:
+/FTP_Cloud/GUIDELINES_DOCUMENTS/ANTENNNA_APPLICATIONS_DOCUMENTATION_ASSETS/android_800_400_samsung
+
+
+This is a uesful tool when calculating any asset sizes for the Baseapp.
+
+[Useful Asset size calculator](https://nevedwards101.github.io/screencalc/)
 
 -----
 

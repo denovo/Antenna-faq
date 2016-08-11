@@ -14,6 +14,10 @@ pages:
     - 'Smarthseet': 'dmtools/smartsheet.md'
     - 'Useful Links': 'dmtools/useful.md'
 - QA: 'qa.md'
+- Compilers: 
+    - 'Legacy Compilers': 'compilers/legacy.md'
+    - 'XP-2': 'compilers/xp2.md'
+    - 'Wand': 'compilers/wand.md'
 - How to make edits: 'editing_how_to.md'
 theme: null
 theme_dir: 'antenna_material'

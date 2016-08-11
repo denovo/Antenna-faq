@@ -5,7 +5,7 @@ Download links should be provided as a hyperlink, they should also include the s
 
 Android files will be provided at the relevant OS as an .apk file they may also include a link to a content ditribution (expansion) file to be loaded .
 
-iOS files will be provided at the relevant OS as an .ipa file /or a .zip which will contain both an .ipa and provisioning file.
+iOS files will be provided at the relevant OS as an .ipa file /or a .zip which will contain both a .app file and provisioning file.
 
 Links expire after 10 days
 
@@ -21,11 +21,11 @@ In the menu bar, go Safari -> Preferences. In the "General" tab, uncheck "Open '
 
 You can use iTunes to upload your app.
 
-You can transfer the ipa into your iTunes library and then install to your device.
+You can transfer the ipa into your iTunes library and then install to your device. If you were provided with the .zip, you need to open the the .zip file and then drag the resulting folder into iTunes.
 
 You can install via either a long link url: As an example:https://d3099jutct8dja.cloudfront.net/builds/113545/adhoc?Expires=1464530546&Signature=Aa8jPq-ayQyaOgnRGBWi0kvJpBh64kn3wHYNFvRcaakn~rLR3jMdIHPwUrJRnbwA~me1odT3GWjeiWAXYNhfdBpvIrMy-dji-bVU4zFqslfOeUcvWoUUFRROFptkK2jkqOT7GnF8Rn0r4zTuVZCUJ3jW7~vZW8WTSX9VBNtQrWk_&Key-Pair-Id=APKAI42DDOB6K67Z7GBA
 
-This will downlaod to your hard drive and  can then be transffered to your device.
+This will download to your hard drive and  can then be transffered to your device.
 
 On the device you can use either the QR code or you can navigate on the device using it's browser and input the short link:
 example: 
@@ -38,7 +38,7 @@ Code: 465
 
 You can install via either a long link url: As an example:https://d3099jutct8dja.cloudfront.net/builds/113545/adhoc?Expires=1464530546&Signature=Aa8jPq-ayQyaOgnRGBWi0kvJpBh64kn3wHYNFvRcaakn~rLR3jMdIHPwUrJRnbwA~me1odT3GWjeiWAXYNhfdBpvIrMy-dji-bVU4zFqslfOeUcvWoUUFRROFptkK2jkqOT7GnF8Rn0r4zTuVZCUJ3jW7~vZW8WTSX9VBNtQrWk_&Key-Pair-Id=APKAI42DDOB6K67Z7GBA
 
-This will downlaod to your hard drive and  can then be transffered to your device.
+This will download to your hard drive and can then be transffered to your device.
 
 
 Connect your device and then drag your app to a folder on the device.
@@ -100,7 +100,7 @@ Manual Install with expansion files:
 - Combine the two, so the filename of the .obb file reads something like :  ```main.112662.com.antenna.beatles.obb```
 - IF an adhoc build: 
    Adhoc Installs: ```main.113274.com.eachscape.app29310.obb``` (**113274**: build number  **29310**: app number)
-adhoc folder: Android/obb/eachscape.app30791/ (**30791** is app nuumber)
+adhoc folder: run the app first, without copying the obb folder, 'exit app' when it asks for the expansion file, and copy the .obb file to the folder the app will have auto-generated in the Android/obb/ folder.
    
 - Make sure that the file extension has definitely changed from .zip to .obb. On a Mac you can use the GetInfo option   to check. On a PC you can right click and check properties. If you can't see a file type on PC - goto folder         options and remove the tick from "hide known type file extension"s in foplder options on Windows systems so you can   rename the .zip
   **IMPORTANT** Make sure that when you rename the expansion file you are overwriting the .zip file extension. This     is the cause in 90% of installation failures.
