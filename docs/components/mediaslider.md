@@ -1,40 +1,22 @@
 # HTML Media Slider Install Notes
 
-## Media Library Assets
 
-*Files to be added to media library and referenced at the top of the html block containing the rest of the html/js for the slider*
-
-**esjsapi.js** : an API written by ES and given to us to allow calling custom scripts from HTML blocks. This is used in the mediaSlider HTML block to call custom scripts below when a new audio position is selected, send that value to ES to update the play position.   (this may no longer be needed now that ES have bundled this in to all apps!?)
-
-**progressbar.js** : a bundled JS file containing the core nouslider js library which the slider is based on. More info: [http://refreshless.com/nouislider/](http://refreshless.com/nouislider/)
-
-The file also contains the apollo.js library.
-[https://github.com/toddmotto/apollo](https://github.com/toddmotto/apollo)
-(used for adding and removing classes easily)
-
-
-**progresbar_defaults.css** : base styles needed for the progressbar to render, but unlikely to need changing for general themeing.
-
-----------------------
 
 ## ES Custom Scripts
 
-### goMediaSlider   
+### 1. goMediaSlider   
 
 Initialise the slider - called when the audio play event first fires
 
 Actions:
-* call a JS Function (startProgBar). Passes either audio or video current time and duration as arguments.
 
----------------------------
-### setMediaCurrentTime
+call a JS Function (updateProgBar). 
+Passes either audio or video current time and duration as arguments.
+This script will either update the position of an already initialised progressbar or initialise one if there isn't already one loaded.
+
+### 2. setMediaCurrentTime
 
 Called from the 08 mediasliderHTML block this updates either the audio or video time based on the value passed in when the user drags or clicks the slider.
-
------------------------------------
-### goMediaSlider
-
-Initialises the slider if not already started, and updates the position of the slider to match with the current audio or video time from ES. This is conditionally called on timer expiry event from any views that have an audio or video player if v_playing is set to true.
 
 
 -----------------------------------
@@ -42,13 +24,7 @@ Initialises the slider if not already started, and updates the position of the s
 
 ## HTML BLOCK SETTINGS
 
-remember to check 'disable bounce' in the HTML block settings
-
-
-
-------------------------------------
-
-## ES events
+- check 'disable bounce' in the HTML block settings
 
 
 
@@ -106,8 +82,26 @@ example CSS:
 background-color: [[ds:/base_themes (1) (Local Collection)  (2)/record/progressbarbackgroundcolor]];
 ```
 
---------------------------------------
 
+
+-----------------------------------
+
+## Media Library Assets
+
+*Files to be added to media library and referenced at the top of the html block containing the rest of the html/js for the slider*
+
+**esjsapi.js** : an API written by ES and given to us to allow calling custom scripts from HTML blocks. This is used in the mediaSlider HTML block to call custom scripts below when a new audio position is selected, send that value to ES to update the play position.   (this may no longer be needed now that ES have bundled this in to all apps!?)
+
+**progressbar.js** : a bundled JS file containing the core nouslider js library which the slider is based on. More info: [http://refreshless.com/nouislider/](http://refreshless.com/nouislider/)
+
+The file also contains the apollo.js library.
+[https://github.com/toddmotto/apollo](https://github.com/toddmotto/apollo)
+(used for adding and removing classes easily)
+
+
+**progresbar_defaults.css** : base styles needed for the progressbar to render, but unlikely to need changing for general themeing.
+
+--------------------------------------
 
 ## Samsung Compatibility / Support
 
