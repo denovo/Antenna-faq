@@ -36,3 +36,17 @@ blockquote {
 blockquote p:first-of-type {
     margin-top: 0;
 }
+
+span.section:after {
+    content: "\e602";
+    display: block;
+    float: right;
+    font-family: Icon;
+    font-size: 16px;
+    width: 1.2em;
+    vertical-align: -.1em;
+}
+
+.drawer .toc li .section + ul {
+    display:none;
+}
