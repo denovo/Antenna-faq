@@ -37,6 +37,17 @@ blockquote p:first-of-type {
     margin-top: 0;
 }
 
+/* menu titles with subfolders/sections */
+.drawer li span.section {
+  color: rgba(0,0,0,.87);
+  cursor: pointer;
+}
+
+.drawer li span.section.expanded {
+  background-color: #6d7ab3;
+  color: white;
+}
+
 span.section:after {
     content: "\e602";
     display: block;
@@ -47,6 +58,10 @@ span.section:after {
     vertical-align: -.1em;
 }
 
+/* submenus inside sections */
 .drawer .toc li .section + ul {
     display:none;
+}
+.drawer .toc li .section.expanded + ul {
+    display:block;
 }

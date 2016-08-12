@@ -25,6 +25,7 @@ theme: null
 theme_dir: 'antenna_material'
 
 extra_css: [extra.css]
+extra_javascript: [scripts.js]
 # theme: spacelab
 # theme: material
 # theme: slate
