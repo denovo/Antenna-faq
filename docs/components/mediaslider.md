@@ -4,7 +4,7 @@
 
 ## ES Custom Scripts
 
-### goMediaSlider   
+### 1. goMediaSlider   
 
 Initialise the slider - called when the audio play event first fires
 
@@ -14,7 +14,7 @@ call a JS Function (updateProgBar).
 Passes either audio or video current time and duration as arguments.
 This script will either update the position of an already initialised progressbar or initialise one if there isn't already one loaded.
 
-### setMediaCurrentTime
+### 2. setMediaCurrentTime
 
 Called from the 08 mediasliderHTML block this updates either the audio or video time based on the value passed in when the user drags or clicks the slider.
 
