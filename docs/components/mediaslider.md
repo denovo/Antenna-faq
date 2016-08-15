@@ -116,7 +116,7 @@ This is the popup that appears when dragging the slider to indicate what positio
 
 ## Potential CSS pitfall
 
-You need to make sure that the themes CC is referenced correctly inside the '<style>' tags inside the 08 mediaSliderHTML block.
+You need to make sure that the themes CC is referenced correctly inside the style tags inside the 08 mediaSliderHTML block.
 If your app has a different name for the base_themes table you will need to update the CSS inside the style tags to match with your app name.
 
 For example, if your cloud collection is called `"base_themes (01)"`
@@ -124,13 +124,15 @@ then all of the lines in the CSS that link to that collection must also point to
 
 CC name: base_themes (1)
 example CSS:
+
 ```
 background-color: [[ds:/base_themes (1) (Local Collection)  (2)/record/progressbarbackgroundcolor]];
 ```
 
---------------------------------------
 
 
 ## Samsung Compatibility / Support
 
 The html mediaSlider is not currently supported on Samsung players.
+
+
