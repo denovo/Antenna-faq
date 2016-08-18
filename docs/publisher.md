@@ -36,7 +36,11 @@ The notes show up under the build history here:
 It would also maybe be a good point to put obb filename in NOTES field.
 Though the hope is to that we can now rule that out by using the Samsung Batch tool.
 
+## Cloning an App 
 
+[see this Eachscape article] (http://support.eachscape.com/customer/portal/articles/2104584-cloning-an-app-one-app-with-many-related-versions-)
+
+-----
 
 testing links
 How should we generate apps for iPods 3, 4, 5, 6?
