@@ -44,7 +44,7 @@ blockquote p:first-of-type {
 }
 
 .drawer li span.section.expanded {
-  background-color: #6d7ab3;
+  background-color: #a6b2e4;
   color: white;
 }
 
@@ -56,8 +56,13 @@ span.section:after {
     font-size: 16px;
     width: 1.2em;
     vertical-align: -.1em;
+    transition: transform .5s ease-in-out;
+    transform: rotate(90deg);
 }
-
+span.section.expanded:after {
+  transform: rotate(0deg);
+  transition: transform .3s ease-in;
+}
 /* submenus inside sections */
 .drawer .toc li .section + ul {
     display:none;
