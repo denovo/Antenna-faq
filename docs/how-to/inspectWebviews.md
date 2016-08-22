@@ -52,5 +52,3 @@ Select a WebView in your app. You now have direct Web Inspector access to it. Yo
 If you type in `window.location.reload();` or press **CMD + R**, the WebView reloads itself, which allows you to see network requests and possible console errors that happen when the WebView loads.
 
 You can even debug JavaScript by inserting breakpoints: open a `.js` file in the Safari Web Inspector (e.g. from the _Resource_ tab) and click on the line numbers to insert break points. Then, reload the WebView. JavaScript execution will pause at the breakpoints, and the _Debug_ tab shows the current call stack.
-
-When using [LiveReload](/tooling/cli/steroids-cli/#reloading-with-livereload), the Web Inspector windows are kept open when the app refreshes. However, if you disable LiveReload with the `--no-livereload` flag or initiate a full refresh by running `r` or `refresh` in the Steroids Developer Sever Console, all open Safari Web Inspector windows are unfortunately closed. You need to manually re-open them after the app has reloaded.
