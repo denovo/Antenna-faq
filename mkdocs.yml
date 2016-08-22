@@ -20,7 +20,9 @@ pages:
     - 'Legacy Compilers': 'compilers/legacy.md'
     - 'XP-2': 'compilers/xp2.md'
     - 'Wand': 'compilers/wand.md'
-- How to make edits: 'editing_how_to.md'
+- How to:
+  - 'Make edits to this FAQ': 'how-to/editing_how_to.md'
+  - 'Inspect Webviews in Apps': 'how-to/inspectWebviews.md'
 theme: null
 theme_dir: 'antenna_material'
 

@@ -1,7 +1,7 @@
 # Inspecting webviews inside ES apps
 
-It is possible to use the web browser developer tools and inspector to examine
-the contents of any webview that is running in an ES app. This can be useful to
+Use the web browser developer tools and inspector to examine
+the contents of any webview that is running in an adhoc ES app. This can be useful to
 debug error messages and to see how the html is being rendered once the app is
 running.
 
@@ -15,7 +15,7 @@ To start debugging, click **inspect** below the WebView you want to debug. Use D
 
 The gray graphics listed with the WebView represent its size and position relative to the device’s screen. If your WebViews have titles set, the titles are listed as well.
 
-## Troubleshooting
+### Troubleshooting
 
 Can’t see your WebViews on the **chrome://inspect page**?
 
@@ -29,11 +29,11 @@ More info: https://developers.google.com/web/tools/chrome-devtools/debug/remote-
 
 ### With the iOS Simulator
 
-The easiest way to use the Safari Web Inspector is with the iOS Simulator, where debugging is enabld by default. Open your Supersonic app in the iOS Simulator by typing `s` in the Steroids Development Server console.
+The easiest way to use the Safari Web Inspector is with the iOS Simulator, where debugging is enabled by default. Open your ES app in the iOS Simulator by creating a simulator build in ES and loading that up in the simulator. *..link to notes on using simulator here*
 
 ### With a Physical Device
 
-Alternatively, you can use a [Debug Scanner or Debug Ad Hoc build](/tooling/build-service/build-settings/building-a-debug-build/) for debugging your app. After you have requested, downloaded and installed the Debug Scanner/Ad Hoc IPA, you need to enable Web Inspector for Safari on your **iOS device**. Go to _Settings_ > _Safari_ > _Advanced_ and enable the _Web Inspector_ option. Then, connect your device to your computer with a cable.
+Alternatively, you can use an adhoc iOS app and inspect that when it is connected with USB. You need to enable Web Inspector for Safari on your **iOS device**. Go to _Settings_ > _Safari_ > _Advanced_ and enable the _Web Inspector_ option. Then, connect your device to your computer with a cable.
 
 ### Enabling the Safari Develop Menu
 
@@ -41,11 +41,9 @@ Alternatively, you can use a [Debug Scanner or Debug Ad Hoc build](/tooling/buil
 
 Next, enable Safari's developer tools. Open Safari's preferences by selecting _Safari_ > _Preferences_ from the top menu, go to the _Advanced_ tab and check the _Show Developer_ menu checkbox.
 
-Now, you should see a _Develop_ menu item in Safari's top menu bar. Open the _Develop_ > _iPhone Simulator_ (or your iOS device's name) menu, and you should see a list of WebViews currently open in your app. (`contextmenu.html`, `loading.html` and `background.html` are used internally by Supersonic.)
+Now, you should see a _Develop_ menu item in Safari's top menu bar. Open the _Develop_ > _iPhone Simulator_ (or your iOS device's name) menu, and you should see a list of WebViews currently open in your app.
 
-You can also skip the Safari menu altogether. When in the `steroids connect` prompt, you can use `sd` or `safari` command to get a list of currently open WebViews in the iOS Simulator. The command takes an argument like `sd views/banana/index.html` to open the Safari Web Inspector for given WebView. Partial file/path names work also, so if you have an open WebView at `views/car/index.html` path you can simply write e.g. `sd car/ind`.
-
-If you cannot see any WebViews in your Safari Develop menu, restarting your computer might help.
+If you cannot see any WebViews in your Safari Develop menu, make sure you are viewing a view on your app that has a webview inside of it. If that fails, restarting your computer might help.
 
 ### Inspecting a WebView
 
