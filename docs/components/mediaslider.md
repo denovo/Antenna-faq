@@ -28,7 +28,9 @@ The file also contains the apollo.js library.
 
 ## ES Custom Scripts
 
-### goMediaSlider   
+There are two ES scripts that need to be added to an app for the media slider to work.
+
+### 1. goMediaSlider   
 
 Initialises the slider if not already started, and updates the position of the slider to match with the current audio or video time from ES. This script should be conditionally called on the timer expiry event from any views that have an audio or video player if v_playing is set to true.
 
@@ -41,7 +43,7 @@ Depending on whether a slider is already initialised when the script is called, 
 
 
 ---------------------------
-### setMediaCurrentTime
+### 2. setMediaCurrentTime
 
 Called from the 08 mediasliderHTML block this updates either the audio or video time based on the value passed in when the user drags or clicks the slider.
 
