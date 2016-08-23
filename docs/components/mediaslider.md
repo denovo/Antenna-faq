@@ -34,9 +34,13 @@ There are two ES scripts that need to be added to an app for the media slider to
 
 Initialises the slider if not already started, and updates the position of the slider to match with the current audio or video time from ES. This script should be conditionally called on the timer expiry event from any views that have an audio or video player if v_playing is set to true.
 
+![goMediaSlider custom script](/images/SliderEsScript_goMediaSlider.png)
+
 Actions:
 
 * call a JS Function (updateCurrentTimeOnSlider). Passes either audio or video current time and duration as arguments.
+
+
 
 Depending on whether a slider is already initialised when the script is called, the function will either start a new progressbar instance with the current time and duration values passed to the function or update an existing progressbar with those values.
 
@@ -45,8 +49,9 @@ Depending on whether a slider is already initialised when the script is called, 
 ---------------------------
 ### 2. setMediaCurrentTime
 
-Called from the 08 mediasliderHTML block this updates either the audio or video time based on the value passed in when the user drags or clicks the slider.
+Called from the 08 mediasliderHTML block this updates either the audio or video time based on the value passed in when the user drags or clicks the slider. There is a conditional inside the script which checks the **mediatype** variable, to know if to set either video or audio current time.
 
+![setMediaCurrentTime custom script](/images/SliderEsScript_SetMediaCurrentTime.png)
 
 
 -----------------------------------
@@ -131,5 +136,3 @@ background-color: [[ds:/base_themes (1) (Local Collection)  (2)/record/progressb
 ## Samsung Compatibility / Support
 
 The html mediaSlider is not currently supported on Samsung players.
-
-
