@@ -30,40 +30,35 @@ C. Custom Application Support for Apple. Antenna shall support and maintain the 
 D. Apple Equipment. Client acknowledges that the iOS version of the Custom Application will only be guaranteed to work on the following devices: iPhone 5, iPhone 5S, iPhone 6, iPhone 6S, iPod Touch 5, and iPod Touch 6. For the avoidance of doubt, Antenna’s sole obligation to the Client in regards to supporting and maintaining the Apple iOS Custom Application is set out in Clause [X.C] above. However, should the Client desire to have the Apple iOS Custom Application transferred onto any new generations of hardware devices created by Apple, Inc. at a later time, the parties may mutually agree in a signed writing to have Antenna complete the transfer for an additional cost. 
 
 
-##Scrum based QA
-
-Sprint implementations of QA:
+##Sprint implementations of QA:
 
 By implementing Agile methodologies we adhere to test driven development principles.
 Releasing in pre defined sprints we are then able to iterate and collaborate with key stakeholders to ensure a working model and user satisfaction.
 
 Our backlog for a project is tracked and organised in Jira.
 
-Every sprint cycle should have a review period defined in which items are either marked as done or added back to the backlog for future sprints.
+Each story(issue/task) is then placed into a sprint during a weekly or bi-weekly planning meeting as per the weighting of the story(task) and its priority.
 
-QA should be an ongoing iterative part of this process.
+##Issue/Bug Tracking:
 
-
-##Jira Issue Tracking
-
-Issues should be bug tracked through Jira - this allows multiple people to pick up an issue and allows for the correct tracking of work and resolution control. It also acts as a repository of knowledge for future issues.
-
-
-Issue/Bug Tracking:
-
-Issues/bugs are entered into the Jira projects backlog, where they are prioritised and expedited and moved to current or future sprints as required.
-
->Critical, Major, Minor, Trivial
+Issues/bugs are entered into the Jira projects backlog, where they are prioritised and expedited and moved to current or future sprints as required. Issues are managed via a Kanban board.
+On smaller projects issues/bugs are managed directly on a single Kanban board.
 
 Issues are assigned a severity level based on their impact to the project and their need for resolution.
 
+Critical, Major, Minor, Trivial
+
 All issues then pass through our internal stages of development and checking before they are agreed as done by the Project Manager or defined Stakeholders.
 
->To Do	 Blocked	 In Progress	 QA		 Done
+To Do Blocked In Progress QA Done
 
-Items are moved into QA normally after “brief” smoke testing by ID/CD, issuess will then need proper QA testing but either stage can move to Done depending on the size/seriousness of the issue. If there is an issue with the fix, the issue is defined/commented and moved back into In Progress and reassigned.
+Items are moved into QA normally after “brief” smoke testing by an ID, most items will then need proper QA by the CD/Project Manager but either stage can move to Done depending on the size or seriousness of the issue. 
+If there is an issue with the fix, the issue is defined/commented and moved back into In Progress and reassigned and expedited or placed into the next sprint as needed.
 
-To aid with visualisation and management a Kanban Board can be made of the projects issues.
+Beta Testing / UAT:  We supply user scripted scenarios, that represent user journey(s) through the application to facilitate clear and defined beta testing. That feedback can then be sent back into our Jira system via automated emails. 
+At this stage the Project manager would work with the key Stakeholders to perform test result analysis to define what should be assigned fixed or rejected/blocked. 
+
+To aid with visualisation and management a Kanban Board is be made of the projects issues.
 
 
 ##Details needed for creating a ticket
