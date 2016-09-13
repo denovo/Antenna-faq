@@ -57,10 +57,10 @@ span.section:after {
     width: 1.2em;
     vertical-align: -.1em;
     transition: transform .5s ease-in-out;
-    transform: rotate(90deg);
+    transform: rotate(-90deg);
 }
 span.section.expanded:after {
-  transform: rotate(0deg);
+  transform: rotate(-90deg);
   transition: transform .3s ease-in;
 }
 /* submenus inside sections */
