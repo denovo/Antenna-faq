@@ -13,16 +13,16 @@ Workspace: Antenna International (https://publisher.antenna.cc/manage/organizati
 
 **remember to check 'access by name' in media folder**
 
-**esjsapi.js** : an API written by ES and given to us to allow calling custom scripts from HTML blocks. This is used in the mediaSlider HTML block to call custom scripts below when a new audio position is selected, send that value to ES to update the play position.   (this may no longer be needed now that ES have bundled this in to all apps!?)
+**[esjsapi.js](/scripts/progressbar/esjsapi.js)** : an API written by ES and given to us to allow calling custom scripts from HTML blocks. This is used in the mediaSlider HTML block to call custom scripts below when a new audio position is selected, send that value to ES to update the play position.   (this may no longer be needed now that ES have bundled this in to all apps!?)
 
-**progressbar.js** : a bundled JS file containing the core nouslider js library which the slider is based on. More info: [http://refreshless.com/nouislider/](http://refreshless.com/nouislider/)
+**[progressbar.js](/scripts/progressbar/progressbar.js)**  :  a bundled JS file containing the core nouslider js library which the slider is based on. More info: [http://refreshless.com/nouislider/](http://refreshless.com/nouislider/)
 
 The file also contains the apollo.js library.
 [https://github.com/toddmotto/apollo](https://github.com/toddmotto/apollo)
 (used for adding and removing classes easily)
 
 
-**progresbar_defaults.css** : base styles needed for the progressbar to render, but unlikely to need changing for general themeing.
+**[progresbar_defaults.css](/scripts/progressbar/progressbar_defaults.css)** : base styles needed for the progressbar to render, but unlikely to need changing for general themeing.
 
 ----------------------
 
