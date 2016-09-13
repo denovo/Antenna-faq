@@ -1,6 +1,6 @@
 #Welcome to Antenna International FAQ
 
-![Antenna International logo](/images/Antenna-horizontal-All-aligned.jpg)
+<!-- ![Antenna International logo](/images/Antenna-horizontal-All-aligned.jpg) -->
 
 
 Choose a topic from the menu or type your search at the top by clicking on the search icon.
