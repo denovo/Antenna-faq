@@ -14,7 +14,7 @@ Virtual XPC Compiling
 
 •	Open Compiler: xppmc icon on desktop.
 
-
+![vcompielrlogo](/images/vcompiler_1.png)
 
 •	Import Spreadsheet: File New/File/Import/Find Spreadsheet
 
@@ -28,7 +28,7 @@ o	Output path: direct to number ‘1’ folder you created earlier
 o	Hit ‘Apply’
 
 
-
+![vcompielrlogo](/images/vcompiler_2.png)
 
 
 •	Link up Mp3s:
@@ -37,7 +37,7 @@ o	Browse
 o	Locate folder with the MP3’s for each language
 o	‘OK’
 
-
+![vcompielrlogo](/images/vcompiler_3.png)
 
 
 •	Save Compile: File/Save As/Project code & title.xpp 
@@ -69,7 +69,7 @@ If all the text is in BLUE this means the project has been successfully compiled
 
 
 
-
+![vcompielrlogo](/images/vcompiler_4.png)
 
 
 
@@ -97,6 +97,7 @@ the compile. Below is an example of some problems that has occurred during
 a compile.
 
 
+![vcompielrlogo](/images/vcompiler_5.png)
 
 
 
@@ -139,72 +140,3 @@ To solve this problem simply type in the stop number of the next stop that is me
 
 
 
-Troubleshooting
-
-
-99% of Compiling issues are down to human error
-
-
-When compiling, the best indicator as to whether your compile has been successful is the dialogue box that shows up when compiling.
-
-If all the text is in BLUE this means the project has been successfully compiled (see example below)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-If any of the text is RED or Yellow, this indicates that there is a problem with
-the compile. Below is an example of some problems that has occurred during 
-a compile.
-
-
-
-
-
-In this example we can see two problems.
-
-Firstly, the text in red and yellow indicates that the mp3 file related to the stop can’t be found. 
-
-This could be 1 of 2 things
-
-1.	The Mp3 file is missing from the folder that you have linked to the stop.
-2.	The Mp3 file name doesn't match the file name in the compiler.
-
-In the example above you can see the MP3 file in the compiler is named VIP_ .mp3
-
-This came up as an error as the actual mp3 file is name VI_ .mp3
-
-(the actual file name and the name in the compiler must match exactly)
-
-
-The second issue shown in the example above is flagged up in the Error Log window.
-
-These Stops have green button links. But the field “Next Item” has not been filled in. this means the compiler knows that it needs to play the green button stop but it hasn't been told which stop to play next.
-
-To solve this problem simply type in the stop number of the next stop that is meant to play when the green button is pressed.
-
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
