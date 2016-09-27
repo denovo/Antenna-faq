@@ -20,6 +20,7 @@ pages:
     - 'Virtual Compiler': 'compilers/virtualcompiler.md'
     - 'Legacy Compilers': 'compilers/legacy.md'
     - 'XP-2': 'compilers/xp2.md'
+    - 'XPC to XP-2': 'compilers/compilersxpctoxp2.md'
     - 'Wand': 'compilers/wand.md'
 - How to:
   - 'Make edits to this FAQ': 'how-to/editing_how_to.md'
