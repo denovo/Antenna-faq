@@ -2,8 +2,7 @@
 
 
 
-
-![Antenna International logo](/images/XP WAND COMPILE.pdf)
+[Download PDF](images/XP WAND COMPILE.pdf)
 
 Open Audio Master G2 App
 
