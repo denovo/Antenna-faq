@@ -20,6 +20,7 @@ Below shows shows the different sections of the compiler
 
 
 
+![Antenna International logo](/images/xpwandsc_1.png)
 
 
 
@@ -48,8 +49,7 @@ Below shows shows the different sections of the compiler
 
 
 
-
-•	To being a compile select File/New to create a new project. 
+•	To begin a compile select File/New to create a new project. 
 
 Creating Languages
 
@@ -60,7 +60,7 @@ Creating Languages
 
 
 
-
+![Antenna International logo](/images/xpwandsc_2.png)
 
 
 
