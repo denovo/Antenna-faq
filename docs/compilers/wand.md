@@ -231,7 +231,7 @@ Connect the XP Wand player to computer. Open in finder and delete the mp3 folder
 
 
 
-![Antenna International logo](/images/xpwand_7.png)
+![Antenna International logo](/images/xpwand_8.png)
 
 
 
