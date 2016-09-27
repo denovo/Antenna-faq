@@ -3,6 +3,8 @@
 
 
 
+![Antenna International logo](/images/XP WAND COMPILE.pdf)
+
 Open Audio Master G2 App
 
 
@@ -237,17 +239,3 @@ Connect the XP Wand player to computer. Open in finder and delete the mp3 folder
 
 •	Once updated the Virtual compiler will shutdown and restart itself
 •	Your audio tour will now be on the XP WAND ready for content testing
-
-
-
-
-
-
-
-
-
-
-
-
-
-
