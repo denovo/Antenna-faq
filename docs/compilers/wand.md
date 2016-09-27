@@ -97,7 +97,7 @@ Once complete it should look like the example below where the audio files have b
 
 
 
-
+![Antenna International logo](/images/xpwand_3.png)
 
 
 
@@ -143,13 +143,18 @@ German Stops
 
 
 Italian Stops
-Creating Green Button Stops
+
+
+![Antenna International logo](/images/xpwand_4.png)
+
+
+## Creating Green Button Stops
 
 •	To create green button links, simply input the next track number that should be linked into the ‘Next Track Number’ field in the stop section. 
 
 
 
-
+![Antenna International logo](/images/xpwand_5.png)
 
 
 
@@ -178,7 +183,7 @@ TIP: To check if all the mp3 files are linked to the stops, simply highlight all
 This will tell you if all your mp3’s are linked or not.
 
 
-
+![Antenna International logo](/images/xpwand_6.png)
 
 
 
@@ -201,7 +206,7 @@ Connect the XP Wand player to computer. Open in finder and delete the mp3 folder
 
 
 
-
+![Antenna International logo](/images/xpwand_7.png)
 
 
 
@@ -226,7 +231,7 @@ Connect the XP Wand player to computer. Open in finder and delete the mp3 folder
 
 
 
-
+![Antenna International logo](/images/xpwand_7.png)
 
 
 
