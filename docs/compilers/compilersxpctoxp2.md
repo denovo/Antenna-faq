@@ -11,7 +11,7 @@ This tour folder contains 2 folders
 tour/PARAMS
 
 
-![Antenna International logo](/images/xpcpxp2_1.png)
+![Antenna International logo](/images/xpcxp2_1.png)
 
 
 
