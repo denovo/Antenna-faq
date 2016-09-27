@@ -17,6 +17,7 @@ pages:
     - 'Useful Links': 'dmtools/useful.md'
 - QA: 'qa.md'
 - Compilers:
+    - 'Virtual Compiler': 'compilers/virtualcompiler.md'
     - 'Legacy Compilers': 'compilers/legacy.md'
     - 'XP-2': 'compilers/xp2.md'
     - 'Wand': 'compilers/wand.md'
