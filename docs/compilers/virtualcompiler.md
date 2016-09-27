@@ -57,7 +57,7 @@ o	Cut & paste 1 & 2 folders back into your project folder
 
 ----------
 
-Troubleshooting
+## Troubleshooting
 
 
 99% of Compiling issues are down to human error
@@ -122,21 +122,3 @@ The second issue shown in the example above is flagged up in the Error Log windo
 These Stops have green button links. But the field “Next Item” has not been filled in. this means the compiler knows that it needs to play the green button stop but it hasn't been told which stop to play next.
 
 To solve this problem simply type in the stop number of the next stop that is meant to play when the green button is pressed.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
