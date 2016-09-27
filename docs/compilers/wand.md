@@ -60,7 +60,7 @@ Creating Languages
 
 
 
-![Antenna International logo](/images/xpwandsc_2.png)
+![Antenna International logo](/images/xpwandsc2.png)
 
 
 
