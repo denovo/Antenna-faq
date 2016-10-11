@@ -12,7 +12,9 @@ This can take between 1-10 days please allow this in your schedules.
 You can check current reviw time trends here: 
 [Current App review times](http://appreviewtimes.com/)
 
-The app size limit is currently 4GB but do bear in mind users download connections.
+The app size limit is currently 2GB but do bear in mind users download connections.
+An iOS App binary files can be as large as 2 GB, but the executable file (app_name.app/app_name) cannot exceed 60 MB. 
+
 The iTunes Store also accepts expansion files besides the app executable itself.
 Antenna doenst support expansion files fo iTunes at this point.
 
