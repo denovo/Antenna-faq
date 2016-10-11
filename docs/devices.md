@@ -79,7 +79,6 @@ For more assistance with Antenna Batch - contact the [Product Owner](mailto:eker
 
 ## Samsung 4.2 (2.3 android)
 
-Use Samsung Connect - tbc
 
 Manual Install non expansion file:
 
