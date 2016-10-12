@@ -157,7 +157,7 @@ After a while you may get a lot of simulator builds installed and this can take 
 
 xcrun simctl erase all
 
-[iOS Simulator ideo walkthrough](https://drive.google.com/open?id=0BwiezndqtVwBeWxxRHNMN2t5SWc)
+[iOS Simulator ideo walkthrough] (https://drive.google.com/open?id=0BwiezndqtVwBeWxxRHNMN2t5SWc)
 
 
 ----
@@ -184,7 +184,7 @@ https://developers.google.com/cloud-test-lab/?hl=en  https://firebase.google.com
 
 **Android Emulator Tools**
 
-[GenyMotion walkthrough video](https://drive.google.com/open?id=0BwiezndqtVwBdzBFTEJIR2VNRGc)
+[GenyMotion walkthrough video] (https://drive.google.com/open?id=0BwiezndqtVwBdzBFTEJIR2VNRGc)
 
 ------
 
