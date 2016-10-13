@@ -1,4 +1,4 @@
-## Who sets up a new Jira project?
+## Who sets up a new Jira project ?
 
 ## How do I get people added to a Jira project?
 
