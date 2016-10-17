@@ -189,5 +189,11 @@ https://developers.google.com/cloud-test-lab/?hl=en  https://firebase.google.com
 ------
 
 
+**Onsite - issue reporting **
 
+For onsite staff or clients it is helpful if they are guided to report issues based on the following headings, these can then be fed back via Account Managers to DM:
+
+[OnSite reporting headers] (https://docs.google.com/document/d/1uF8ZClcG3p34tGFvQVEQBkaeyIQX56TDmYXh0p7pSEA/edit)
+
+-----
 
