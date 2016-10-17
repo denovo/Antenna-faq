@@ -158,7 +158,7 @@ After a while you may get a lot of simulator builds installed and this can take 
 
 xcrun simctl erase all
 
-[iOS Simulator ideo walkthrough](https://drive.google.com/open?id=0BwiezndqtVwBeWxxRHNMN2t5SWc)
+[iOS Simulator ideo walkthrough][(https://drive.google.com/open?id=0BwiezndqtVwBeWxxRHNMN2t5SWc)]((https://drive.google.com/open?id=0BwiezndqtVwBeWxxRHNMN2t5SWc) "iOS Simulator Video Walkthrough")
 
 
 ----
@@ -194,7 +194,7 @@ https://developers.google.com/cloud-test-lab/?hl=en  https://firebase.google.com
 
 For onsite staff or clients it is helpful if they are guided to report issues based on the following headings, these can then be fed back via Account Managers to DM:
 
-[OnSite reporting headers](https://docs.google.com/document/d/1uF8ZClcG3p34tGFvQVEQBkaeyIQX56TDmYXh0p7pSEA/edit)
+[[OnSite reporting headers]]((https://docs.google.com/document/d/1uF8ZClcG3p34tGFvQVEQBkaeyIQX56TDmYXh0p7pSEA/edit))
 
 -----
 
