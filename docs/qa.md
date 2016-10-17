@@ -134,14 +134,14 @@ This is not currently supported on our Eachscape patform.
 ##Emulators and SDK tools
 
 
-**Eachscape Inspector
+**Eachscape Inspector**
 
 [Inspector](http://support.eachscape.com/customer/portal/articles/513429-the-inspector)
 
 ----
 
 
-**iOS
+**iOS**
 
 iOS Builds can be tested by making a simulator build from within Publisher.
 This can then be downlaoded and run in the iOS Simulator.
@@ -163,7 +163,7 @@ xcrun simctl erase all
 
 ----
 
-**Android
+**Android**
 
 Announcing: Cloud Test Lab
 The Cloud Test Lab will test your app on a wide range of popular physical Android phones and tablets. Sign up below for early access to the Cloud Test Lab service! 
@@ -174,7 +174,7 @@ https://developers.google.com/cloud-test-lab/?hl=en  https://firebase.google.com
 
 ----
 
-**Android SDK tools
+**Android SDK tools**
 
 
 
@@ -190,7 +190,7 @@ https://developers.google.com/cloud-test-lab/?hl=en  https://firebase.google.com
 ------
 
 
-**Onsite - issue reporting **
+##Onsite - issue reporting ##
 
 For onsite staff or clients it is helpful if they are guided to report issues based on the following headings, these can then be fed back via Account Managers to DM:
 
