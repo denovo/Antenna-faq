@@ -121,6 +121,7 @@ Being defined with JR/TG et al as of 4/7/2016
 
 ##Automated Unit Testing:
 
+This is not currently supported on our Eachscape patform.
 
 ---
 
