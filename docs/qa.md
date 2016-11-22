@@ -185,7 +185,7 @@ https://developers.google.com/cloud-test-lab/?hl=en  https://firebase.google.com
 
 **Android Emulator Tools**
 
-[[GenyMotion walkthrough video]](https://drive.google.com/open?id=0BwiezndqtVwBdzBFTEJIR2VNRGc)]
+[GenyMotion walkthrough video](https://drive.google.com/open?id=0BwiezndqtVwBdzBFTEJIR2VNRGc)]
 
 ------
 
