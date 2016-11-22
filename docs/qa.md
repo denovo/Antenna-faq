@@ -185,7 +185,7 @@ https://developers.google.com/cloud-test-lab/?hl=en  https://firebase.google.com
 
 **Android Emulator Tools**
 
-[GenyMotion walkthrough video] (https://drive.google.com/open?id=0BwiezndqtVwBdzBFTEJIR2VNRGc)
+[GenyMotion walkthrough video][(https://drive.google.com/open?id=0BwiezndqtVwBdzBFTEJIR2VNRGc)]
 
 ------
 
@@ -197,4 +197,3 @@ For onsite staff or clients it is helpful if they are guided to report issues ba
 [[OnSite reporting headers]]((https://docs.google.com/document/d/1uF8ZClcG3p34tGFvQVEQBkaeyIQX56TDmYXh0p7pSEA/edit))
 
 -----
-
