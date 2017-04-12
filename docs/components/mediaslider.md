@@ -136,3 +136,29 @@ background-color: [[ds:/base_themes (1) (Local Collection)  (2)/record/progressb
 ## Samsung Compatibility / Support
 
 The html mediaSlider is not currently supported on Samsung players.
+
+## Editing Tips
+
+This will wrap the tooltips progress bar: 
+
+    .progress-bar-wrap.show-tooltips {
+      height:10px;
+      top:0px;
+    }
+
+
+Edit the below to change handle and on handle size - the top calc must always be half of the width/height:
+
+    .visible-progress-bar-handle {
+      width: 12px;
+      height: 12px;
+      position: absolute;
+      top: calc(50% - 6px);
+    }
+    
+    .on .visible-progress-bar-handle {
+      width: 24px;
+      height: 24px;
+      left: 0px;
+      top: calc(50% - 12px);
+    }
