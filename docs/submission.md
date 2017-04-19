@@ -38,7 +38,9 @@ This link contains all relevant asset size and screenshot information (updated a
 You will need to provide screenshots for all the devices your app supports:
 
 [iTunes Connect submission list](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Chapters/Properties.html)
+
 [Screenshots guide](https://developer.apple.com/library/content/documentation/LanguagesUtilities/Conceptual/iTunesConnect_Guide/Chapters/Properties.html#//apple_ref/doc/uid/TP40011225-CH26-SW2)
+
 Here is a useful checklist for submissions you can run through:
 
 [Checklist](https://quip.com/FtjnAWlMMnJS)
